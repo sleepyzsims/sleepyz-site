@@ -7,7 +7,7 @@ backend:
 media_folder: assets/uploads
 public_folder: /assets/uploads
 
-site_url: https://lucky-croissant-e442b8.netlify.app
+site_url: https://sleepyz-sims.netlify.app
 logo_url: /assets/logo.svg
 
 collections:
