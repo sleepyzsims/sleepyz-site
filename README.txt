@@ -1,14 +1,15 @@
-SLEEPYZ SIMS SITE
+Sleepyz Sims site
 
-This site is designed to be hosted on Netlify and edited through Decap CMS.
+This version uses Decap CMS with the GitHub backend.
 
-CMS:
-- /admin/
-- CC entries are stored in content/cc.json.
-- New CC entries are automatically added to the top of the list through Decap's add_to_top option.
-- Resources are stored in content/resources.json.
+Repository: sleepyzsims/sleepyz-site
+Netlify site: https://sleepyz-sims.netlify.app
+CMS: https://sleepyz-sims.netlify.app/admin/
 
-Before deploying:
-1. Replace YOUR_GITHUB_USERNAME in admin/config.yml with the GitHub account that owns sleepyz-sims-site.
-2. Replace YOUR_NETLIFY_SITE.netlify.app with the actual Netlify production domain.
-3. Configure GitHub OAuth in Netlify using the steps provided in the setup instructions.
+Catalog entries are stored in content/cc.json. New entries are added to the top through Decap (add_to_top: true).
+
+All catalog category fields are optional multi-selects: Age, Item, Type, and Hair Type can each have multiple selections or none.
+
+The Subtitle field was removed.
+
+To add a new option later, add a label/value pair to the relevant options list in admin/config.yml. The public filter discovers category values present in the catalog automatically.
