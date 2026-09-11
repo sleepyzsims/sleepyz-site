@@ -1,13 +1,13 @@
 backend:
   name: github
-  repo: YOUR_GITHUB_USERNAME/sleepyz-sims-site
+  repo: sleepyz/sleepyz-sims-site
   branch: main
   squash_merges: true
 
 media_folder: assets/uploads
 public_folder: /assets/uploads
 
-site_url: https://YOUR_NETLIFY_SITE.netlify.app
+site_url: https://lucky-croissant-e442b8.netlify.app
 logo_url: /assets/logo.svg
 
 collections:
