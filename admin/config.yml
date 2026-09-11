@@ -8,7 +8,7 @@ backend:
 media_folder: assets/uploads
 public_folder: /assets/uploads
 
-site_url: https://decap-cms-oauth.sleepyzzsims.workers.dev
+site_url: https://sleepyz-site.pages.dev
 # To add a new option later, add a label/value pair to the relevant options list.
 # The public filter automatically discovers any option that appears in the catalog.
 
