@@ -1,3 +1,16 @@
 {
-  "items": []
+  "items": [
+    {
+      "name": "Sims 4 Studio",
+      "description": "I use the latest version of S4S Aurora. This is how I create the package files as well as add the converted meshes or recolors etc. ",
+      "link": "https://sims4studio.com/board/6/download-sims-studio-open-version",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTs9dMqQkxdpwJDTYQAWof1Lp7zo1zt68IhSwGMtlY1Qziqx-zeTTYBTA&s=10"
+    },
+    {
+      "name": "Blender",
+      "description": "I use Blender 5.1.2 for all mesh editing. This includes essentially all of my conversions and new meshes. ",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/3840px-Blender_logo_no_text.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+      "link": "https://www.blender.org"
+    }
+  ]
 }
