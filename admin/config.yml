@@ -9,6 +9,9 @@ public_folder: /assets/uploads
 
 site_url: https://sleepyz-sims.netlify.app
 
+# To add a new option later, add a label/value pair to the relevant options list.
+# The public filter automatically discovers any option that appears in the catalog.
+
 collections:
   - name: catalog
     label: CC Catalog
@@ -23,15 +26,15 @@ collections:
             name: items
             widget: list
             add_to_top: true
-            summary: "{{fields.name}} — {{fields.item}}"
+            summary: "{{fields.name}}"
             fields:
               - { label: Name, name: name, widget: string }
-              - { label: Subtitle, name: subtitle, widget: string, required: false }
               - { label: Preview Image, name: image, widget: image }
               - label: Age
                 name: ages
                 widget: select
                 multiple: true
+                required: false
                 options:
                   - { label: Adult, value: adult }
                   - { label: Child, value: child }
@@ -40,6 +43,8 @@ collections:
               - label: Item
                 name: item
                 widget: select
+                multiple: true
+                required: false
                 options:
                   - { label: Hair, value: hair }
                   - { label: Clothes, value: clothes }
@@ -49,6 +54,7 @@ collections:
                 name: types
                 widget: select
                 multiple: true
+                required: false
                 options:
                   - { label: Conversion, value: conversion }
                   - { label: New Mesh, value: new }
