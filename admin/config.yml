@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: sleepyzsims/sleepyz-sims-site
+  repo: sleepyzsims/sleepyz-site
   branch: main
   squash_merges: true
 
