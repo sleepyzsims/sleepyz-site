@@ -3,6 +3,7 @@ backend:
   repo: sleepyzsims/sleepyz-site
   branch: main
   squash_merges: true
+  base_url: https://decap-cms-oauth.sleepyzzsims.workers.dev
 
 media_folder: assets/uploads
 public_folder: /assets/uploads
