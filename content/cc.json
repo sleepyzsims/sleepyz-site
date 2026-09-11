@@ -359,7 +359,7 @@
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/825685783266672640/marsmerizingsims",
-      "name": "Kiki Dress + Bow",
+      "name": "Kiki Dress + Ursula Bow",
       "creator": "@marsmerizingsims",
       "item": [
         "clothes"
@@ -718,7 +718,7 @@
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/824551411340705792/joliebean1",
-      "name": "T-rex Shorts",
+      "name": "T-rex Bottoms",
       "creator": "@joliebean",
       "item": [
         "clothes"
@@ -1555,7 +1555,7 @@
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/820997070493253632/johnnysims5",
-      "name": "Peter Hairs",
+      "name": "Peter Parker Hair",
       "creator": "@johnnysimmer",
       "item": [
         "hair"
@@ -1677,7 +1677,7 @@
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/820262460256845824/simstrouble3",
-      "name": "Abeni Twists",
+      "name": "Abeni Twists V3",
       "creator": "@simstrouble",
       "item": [
         "hair"
@@ -1697,7 +1697,7 @@
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/820262460256845824/simstrouble3",
-      "name": "Miruna Hair",
+      "name": "Miruna Hairs",
       "creator": "@simstrouble",
       "item": [
         "hair"
@@ -1735,6 +1735,43 @@
       "description": "adult to child conv."
     },
     {
+      "name": "Afterglow Socks",
+      "image": "https://cdn.imgchest.com/files/51ee23d13976.png",
+      "ages": [
+        "child",
+        "toddler",
+        "infant"
+      ],
+      "item": [
+        "clothes",
+        "accessory"
+      ],
+      "types": [
+        "conversion"
+      ],
+      "description": "adult to all kids conv.",
+      "creator": "trillyke",
+      "download": "https://www.tumblr.com/sleepyz-sims/820018500206772224/trillyke-conversions"
+    },
+    {
+      "name": "Gust Denim Coat",
+      "image": "https://cdn.imgchest.com/files/f1adb25e5bf8.png",
+      "ages": [
+        "child",
+        "toddler",
+        "infant"
+      ],
+      "item": [
+        "clothes"
+      ],
+      "types": [
+        "conversion"
+      ],
+      "description": "adult to all kids conv.",
+      "creator": "trillyke",
+      "download": "https://www.tumblr.com/sleepyz-sims/820018500206772224/trillyke-conversions"
+    },
+    {
       "download": "https://www.tumblr.com/sleepyz-sims/820018500206772224/trillyke-conversions",
       "name": "Pluto Cropped Jacket",
       "creator": "@trillyke",
@@ -1753,6 +1790,27 @@
       "image": "https://cdn.imgchest.com/files/a62cc720e503.png",
       "creator_url": "",
       "description": "adult to all kids conv."
+    },
+    {
+      "download": "https://www.tumblr.com/sleepyz-sims/819580487529070592/hairs1",
+      "name": "Rhaenyra's Heir Hair",
+      "creator": "lechairschair",
+      "item": [
+        "hair",
+        "accessory"
+      ],
+      "ages": [
+        "child"
+      ],
+      "hair_type": [
+        "straight",
+        "updo"
+      ],
+      "types": [
+        "conversion"
+      ],
+      "image": "https://cdn.imgchest.com/files/779bf1568efd.png",
+      "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/819580487529070592/hairs1",
@@ -2715,7 +2773,7 @@
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/816844155080916992/dogsill3",
-      "name": "Taliyah Hair",
+      "name": "Taliyah Pigtails",
       "creator": "@dogsill",
       "item": [
         "hair"
@@ -3116,6 +3174,25 @@
       ],
       "image": "https://cdn.imgchest.com/files/cb438c081e0e.png",
       "creator_url": "",
+      "description": "adult to child conv."
+    },
+    {
+      "download": "https://www.tumblr.com/sleepyz-sims/814943747559374848/gloomygeek",
+      "name": "Bellatrix Hair",
+      "creator": "gloomygeek",
+      "item": [
+        "hair"
+      ],
+      "ages": [
+        "child"
+      ],
+      "hair_type": [
+        "straight"
+      ],
+      "types": [
+        "conversion"
+      ],
+      "image": "https://cdn.imgchest.com/files/fb7303e3a7f7.png",
       "description": "adult to child conv."
     },
     {
