@@ -1,16 +1,39 @@
 {
   "items": [
     {
-      "name": "Sims 4 Studio",
-      "description": "I use the latest version of S4S Aurora. This is how I create the package files as well as add the converted meshes or recolors etc. ",
-      "link": "https://sims4studio.com/board/6/download-sims-studio-open-version",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTs9dMqQkxdpwJDTYQAWof1Lp7zo1zt68IhSwGMtlY1Qziqx-zeTTYBTA&s=10"
+      "name": "Macbook M3 Pro",
+      "description": "This is the laptop I use. It runs my game extremely well with 60+ GB of cc. My loading time is like maybe 2 minutes from launch to main menu.",
+      "link": "N/A"
     },
     {
       "name": "Blender",
       "description": "I use Blender 5.1.2 for all mesh editing. This includes essentially all of my conversions and new meshes. ",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/3840px-Blender_logo_no_text.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
       "link": "https://www.blender.org"
+    },
+    {
+      "name": "Sims 4 Studio",
+      "description": "I use the latest version of S4S Aurora. This is how I create the package files as well as add the converted meshes or recolors etc. ",
+      "link": "https://sims4studio.com/board/6/download-sims-studio-open-version",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTs9dMqQkxdpwJDTYQAWof1Lp7zo1zt68IhSwGMtlY1Qziqx-zeTTYBTA&s=10"
+    },
+    {
+      "name": "Photoshop 2025",
+      "description": "This is used for texture editing mainly. It's not usually necessary for conversions but if needed you can use Photopea for free (check next entry). I do NOT recommend buying Photoshop just for conversions.",
+      "link": "https://www.adobe.com/products/photoshop/landpa.html?sdid=NC5FRF5H&mv=search&mv2=paidsearch&ef_id=Cj0KCQjwzY7VBhDwARIsAFtPvBQJZnfn3cXA0ck7Dbfl6JCuMYLN80zYFSsSiRNZjQNumdR42aZQAIIaAn6vEALw_wcB:G:s&s_kwcid=AL!3085!3!714745362176!e!!g!!photoshop!1712238394!67643541820&mv=search&gad_source=1&gad_campaignid=1712238394&gbraid=0AAAAAD5r4AymOgpIlJkkne3SPcrHPfb8j&gclid=Cj0KCQjwzY7VBhDwARIsAFtPvBQJZnfn3cXA0ck7Dbfl6JCuMYLN80zYFSsSiRNZjQNumdR42aZQAIIaAn6vEALw_wcB",
+      "image": "https://www.edigitalagency.com.au/wp-content/uploads/Photoshop-logo-png-large-size.png"
+    },
+    {
+      "name": "Photopea",
+      "description": "This is basically just photoshop as a free website. It's a great alternative, but you could also use gimp or any other photo editing software. ",
+      "link": "https://www.photopea.com",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Photopea_logo.svg/3840px-Photopea_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    {
+      "name": "S4CasTools",
+      "description": "I use this to clone hairs or accessories I convert. It also has a bunch of QoL tools. You don't need this to clone cc but its the easiest way. It's a windows only program. Since I'm on mac, I use crossovers to run it.",
+      "link": "https://github.com/CmarNYC-Tools/TS4CASTools",
+      "image": "https://cdn.imgchest.com/files/7537f1e75dd5.png"
     }
   ]
 }
