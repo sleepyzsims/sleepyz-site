@@ -8,7 +8,6 @@ media_folder: assets/uploads
 public_folder: /assets/uploads
 
 site_url: https://sleepyz-sims.netlify.app
-logo_url: /assets/logo.svg
 
 collections:
   - name: catalog
@@ -34,36 +33,36 @@ collections:
                 widget: select
                 multiple: true
                 options:
-                  - Adult
-                  - Child
-                  - Toddler
-                  - Infant
+                  - { label: Adult, value: adult }
+                  - { label: Child, value: child }
+                  - { label: Toddler, value: toddler }
+                  - { label: Infant, value: infant }
               - label: Item
                 name: item
                 widget: select
                 options:
-                  - Hair
-                  - Clothes
-                  - Shoes
-                  - Accessory
+                  - { label: Hair, value: hair }
+                  - { label: Clothes, value: clothes }
+                  - { label: Shoes, value: shoes }
+                  - { label: Accessory, value: accessory }
               - label: Type
                 name: types
                 widget: select
                 multiple: true
                 options:
-                  - Conversion
-                  - New Mesh
-                  - Recolor
+                  - { label: Conversion, value: conversion }
+                  - { label: New Mesh, value: new }
+                  - { label: Recolor, value: recolor }
               - label: Hair Type
                 name: hair_type
                 widget: select
                 multiple: true
                 required: false
                 options:
-                  - Straight
-                  - Curly/Wavy
-                  - Updo
-                  - Braids/Twists
+                  - { label: Straight, value: straight }
+                  - { label: Curly/Wavy, value: curly/wavy }
+                  - { label: Updo, value: updo }
+                  - { label: Braids/Twists, value: braids/twists }
               - { label: Description, name: description, widget: text, required: false }
               - { label: Original Creator, name: creator, widget: string, required: false }
               - { label: Creator Link, name: creator_url, widget: string, required: false }
