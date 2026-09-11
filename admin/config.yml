@@ -1,0 +1,89 @@
+backend:
+  name: github
+  repo: YOUR_GITHUB_USERNAME/sleepyz-sims-site
+  branch: main
+  squash_merges: true
+
+media_folder: assets/uploads
+public_folder: /assets/uploads
+
+site_url: https://YOUR_NETLIFY_SITE.netlify.app
+logo_url: /assets/logo.svg
+
+collections:
+  - name: catalog
+    label: CC Catalog
+    label_singular: CC Item
+    files:
+      - label: Finished CC
+        name: finished_cc
+        file: content/cc.json
+        format: json
+        fields:
+          - label: Items
+            name: items
+            widget: list
+            add_to_top: true
+            summary: "{{fields.name}} — {{fields.item}}"
+            fields:
+              - { label: Name, name: name, widget: string }
+              - { label: Subtitle, name: subtitle, widget: string, required: false }
+              - { label: Preview Image, name: image, widget: image }
+              - label: Age
+                name: ages
+                widget: select
+                multiple: true
+                options:
+                  - Adult
+                  - Child
+                  - Toddler
+                  - Infant
+              - label: Item
+                name: item
+                widget: select
+                options:
+                  - Hair
+                  - Clothes
+                  - Shoes
+                  - Accessory
+              - label: Type
+                name: types
+                widget: select
+                multiple: true
+                options:
+                  - Conversion
+                  - New Mesh
+                  - Recolor
+              - label: Hair Type
+                name: hair_type
+                widget: select
+                multiple: true
+                required: false
+                options:
+                  - Straight
+                  - Curly/Wavy
+                  - Updo
+                  - Braids/Twists
+              - { label: Description, name: description, widget: text, required: false }
+              - { label: Original Creator, name: creator, widget: string, required: false }
+              - { label: Creator Link, name: creator_url, widget: string, required: false }
+              - { label: Download Link, name: download, widget: string }
+
+  - name: resources
+    label: Resources / Programs
+    files:
+      - label: Resources
+        name: resources
+        file: content/resources.json
+        format: json
+        fields:
+          - label: Resources
+            name: items
+            widget: list
+            add_to_top: true
+            summary: "{{fields.name}}"
+            fields:
+              - { label: Name, name: name, widget: string }
+              - { label: Description, name: description, widget: text, required: false }
+              - { label: Link, name: link, widget: string }
+              - { label: Image, name: image, widget: image, required: false }
