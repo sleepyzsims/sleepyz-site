@@ -68,7 +68,7 @@ collections:
                   - { label: Straight, value: straight }
                   - { label: Curly/Wavy, value: curly/wavy }
                   - { label: Updo, value: updo }
-                  - { label: Braids/Twists, value: braids/twists }
+                  - { label: Braids/Twists/Locs, value: braids/twists }
               - { label: Description, name: description, widget: text, required: false }
               - { label: Original Creator, name: creator, widget: string, required: false }
               - { label: Creator Link, name: creator_url, widget: string, required: false }
