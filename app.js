@@ -5,8 +5,6 @@ const state = {
   hair: []
 };
 
-// Keep the built-in labels here. If you add a new category in the CMS config,
-// the public filter will also discover any option that appears in the catalog.
 const labels = {
   age: {
     adult: 'Adult',
@@ -46,6 +44,11 @@ function asArray(v) {
 function labelFor(group, value) {
   const key = norm(value);
   return labels[group]?.[key] || String(value);
+}
+
+function displayCreator(value) {
+  const name = String(value || '').replace(/^@+/, '');
+  return name ? '@' + name : '';
 }
 
 function filterValues(group) {
@@ -293,6 +296,8 @@ function card(item) {
   cr.className = 'credit';
 
   if (item.creator) {
+    const creatorName = displayCreator(item.creator);
+
     cr.textContent = 'Original Creator: ';
 
     if (item.creator_url) {
@@ -301,12 +306,12 @@ function card(item) {
       a.href = item.creator_url;
       a.target = '_blank';
       a.rel = 'noopener';
-      a.textContent = item.creator;
+      a.textContent = creatorName;
 
       cr.append(a);
     } else {
       cr.append(
-        document.createTextNode(item.creator)
+        document.createTextNode(creatorName)
       );
     }
   }
@@ -422,6 +427,7 @@ async function loadResources() {
 
     if (x.description) {
       const p = document.createElement('p');
+      p.className = 'description';
       p.textContent = x.description;
 
       a.append(p);
