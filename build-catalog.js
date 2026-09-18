@@ -10,10 +10,21 @@ const files = fs
 
 const items = files.map(file => {
   const filePath = path.join(ccDir, file);
-
-  return JSON.parse(
+  const item = JSON.parse(
     fs.readFileSync(filePath, 'utf8')
   );
+
+  // Give any new CC entry a date automatically.
+  // Existing entries already have _order and are left unchanged.
+  if (!item.date_added && typeof item._order !== 'number') {
+    item.date_added = new Date().toISOString();
+    fs.writeFileSync(
+      filePath,
+      JSON.stringify(item, null, 2) + '\n'
+    );
+  }
+
+  return item;
 });
 
 items.sort((a, b) => {
@@ -24,18 +35,18 @@ items.sort((a, b) => {
   const aHasDate = Boolean(a.date_added);
   const bHasDate = Boolean(b.date_added);
 
-  // New entries with a date go before the old entries.
+  // New entries with a date go before old entries.
   if (aHasDate && !bHasDate) return -1;
   if (!aHasDate && bHasDate) return 1;
 
-  // Both new entries: newest first.
+  // Both dated entries: newest first.
   if (aHasDate && bHasDate) {
     return String(b.date_added).localeCompare(
       String(a.date_added)
     );
   }
 
-  // Old entries: preserve their original _order.
+  // Old entries: preserve original order.
   const aOrder =
     typeof a._order === 'number'
       ? a._order
@@ -55,7 +66,7 @@ items.sort((a, b) => {
   );
 });
 
-// Remove internal ordering fields from the public catalog.
+// Remove internal fields from the public catalog.
 const publicItems = items.map(item => {
   const copy = { ...item };
 
