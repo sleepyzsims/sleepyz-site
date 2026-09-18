@@ -8,7 +8,7 @@ backend:
 media_folder: assets/uploads
 public_folder: /assets/uploads
 
-site_url: https://sleepyz-site.pages.dev
+site_url: https://sleepyzz-site.pages.dev
 
 # To add a new option later, add a label/value pair to the relevant options list.
 # The public filter automatically discovers any option that appears in the catalog.
@@ -79,6 +79,13 @@ collections:
       - { label: Creator Link, name: creator_url, widget: string, required: false }
 
       - { label: Download Link, name: download, widget: string }
+
+      - label: Date Added
+        name: date_added
+        widget: datetime
+        default: "{{now}}"
+        format: "YYYY-MM-DD HH:mm:ss"
+        required: false
 
   - name: resources
     label: Resources / Programs

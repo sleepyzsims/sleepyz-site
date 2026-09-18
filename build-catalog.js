@@ -21,28 +21,47 @@ items.sort((a, b) => {
   if (a.name === 'All in One Download') return -1;
   if (b.name === 'All in One Download') return 1;
 
-  const aHasOrder = typeof a._order === 'number';
-  const bHasOrder = typeof b._order === 'number';
+  const aHasDate = Boolean(a.date_added);
+  const bHasDate = Boolean(b.date_added);
 
-  // New entries without an _order go before existing entries.
-  if (!aHasOrder && bHasOrder) return -1;
-  if (aHasOrder && !bHasOrder) return 1;
+  // New entries with a date go before the old entries.
+  if (aHasDate && !bHasDate) return -1;
+  if (!aHasDate && bHasDate) return 1;
 
-  // Both are existing entries: preserve their original order.
-  if (aHasOrder && bHasOrder) {
-    return a._order - b._order;
+  // Both new entries: newest first.
+  if (aHasDate && bHasDate) {
+    return String(b.date_added).localeCompare(
+      String(a.date_added)
+    );
   }
 
-  // Both are new entries: alphabetical order.
+  // Old entries: preserve their original _order.
+  const aOrder =
+    typeof a._order === 'number'
+      ? a._order
+      : Number.MAX_SAFE_INTEGER;
+
+  const bOrder =
+    typeof b._order === 'number'
+      ? b._order
+      : Number.MAX_SAFE_INTEGER;
+
+  if (aOrder !== bOrder) {
+    return aOrder - bOrder;
+  }
+
   return String(a.name || '').localeCompare(
     String(b.name || '')
   );
 });
 
-// Remove the internal _order field from the public catalog.
+// Remove internal ordering fields from the public catalog.
 const publicItems = items.map(item => {
   const copy = { ...item };
+
   delete copy._order;
+  delete copy.date_added;
+
   return copy;
 });
 
