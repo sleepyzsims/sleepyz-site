@@ -21,22 +21,19 @@ items.sort((a, b) => {
   if (a.name === 'All in One Download') return -1;
   if (b.name === 'All in One Download') return 1;
 
-  // Existing items use their original catalog order.
-  const aOrder =
-    typeof a._order === 'number'
-      ? a._order
-      : Number.MAX_SAFE_INTEGER;
+  const aHasOrder = typeof a._order === 'number';
+  const bHasOrder = typeof b._order === 'number';
 
-  const bOrder =
-    typeof b._order === 'number'
-      ? b._order
-      : Number.MAX_SAFE_INTEGER;
+  // New entries without an _order go before existing entries.
+  if (!aHasOrder && bHasOrder) return -1;
+  if (aHasOrder && !bHasOrder) return 1;
 
-  if (aOrder !== bOrder) {
-    return aOrder - bOrder;
+  // Both are existing entries: preserve their original order.
+  if (aHasOrder && bHasOrder) {
+    return a._order - b._order;
   }
 
-  // New items without an original order are sorted alphabetically.
+  // Both are new entries: alphabetical order.
   return String(a.name || '').localeCompare(
     String(b.name || '')
   );
