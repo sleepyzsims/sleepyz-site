@@ -124,7 +124,7 @@
     {
       "download": "https://www.tumblr.com/sleepyz-sims/827237014243016704/miiko",
       "name": "Eira Hair",
-      "creator": "@miiko",
+      "creator": "miiko",
       "item": [
         "hair"
       ],
@@ -146,7 +146,7 @@
     {
       "download": "https://www.tumblr.com/sleepyz-sims/827237014243016704/miiko",
       "name": "Emma Hair",
-      "creator": "@miiko",
+      "creator": "miiko",
       "item": [
         "hair"
       ],
@@ -168,7 +168,7 @@
     {
       "download": "https://www.tumblr.com/sleepyz-sims/827237014243016704/miiko",
       "name": "Luna Hair",
-      "creator": "@miiko",
+      "creator": "miiko",
       "item": [
         "hair"
       ],
@@ -190,7 +190,7 @@
     {
       "download": "https://www.tumblr.com/sleepyz-sims/826849187038642176/ah00b16",
       "name": "Fae Hair (Pigtails)",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -205,13 +205,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/3c1e96271fee.png",
-      "creator_url": "https://aharris00britney.tumblr.com/",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/826849187038642176/ah00b16",
       "name": "Fae Hair (Buns)",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -227,7 +227,7 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/210170674ad7.png",
-      "creator_url": "https://aharris00britney.tumblr.com/",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
@@ -252,7 +252,7 @@
     {
       "download": "https://www.tumblr.com/sleepyz-sims/826619912816640000/jius",
       "name": "Loafers with Leg Warmers",
-      "creator": "@jius-sims",
+      "creator": "jius-sims",
       "item": [
         "shoes"
       ],
@@ -264,13 +264,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/e6a099c30c91.png",
-      "creator_url": "https://jius-sims.tumblr.com/",
+      "creator_url": "https://jius-sims.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/826619912816640000/jius",
       "name": "Star Platform Oxfords",
-      "creator": "@jius-sims",
+      "creator": "jius-sims",
       "item": [
         "shoes"
       ],
@@ -282,13 +282,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/61904b3346bc.png",
-      "creator_url": "https://jius-sims.tumblr.com/",
+      "creator_url": "https://jius-sims.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/826619912816640000/jius",
       "name": "Suede T-Bar Shoes",
-      "creator": "@jius-sims",
+      "creator": "jius-sims",
       "item": [
         "shoes"
       ],
@@ -300,13 +300,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/f8a84705b290.png",
-      "creator_url": "https://jius-sims.tumblr.com/",
+      "creator_url": "https://jius-sims.tumblr.com",
       "description": "infant to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/826619912816640000/jius",
       "name": "Pointed Toe Flats",
-      "creator": "@jius-sims",
+      "creator": "jius-sims",
       "item": [
         "shoes"
       ],
@@ -318,13 +318,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/63b9e81f3a90.png",
-      "creator_url": "https://jius-sims.tumblr.com/",
+      "creator_url": "https://jius-sims.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/826343831301767168/sc003",
       "name": "Fiona Hair",
-      "creator": "@simcelebrity00",
+      "creator": "simcelebrity00",
       "item": [
         "hair"
       ],
@@ -340,13 +340,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/510966aaf56d.png",
-      "creator_url": "https://simcelebrity00.tumblr.com/",
+      "creator_url": "https://simcelebrity00.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/826343831301767168/sc003",
       "name": "Iris Hairs",
-      "creator": "@simcelebrity00",
+      "creator": "simcelebrity00",
       "item": [
         "hair"
       ],
@@ -362,34 +362,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/6c3cc2206707.png",
-      "creator_url": "https://simcelebrity00.tumblr.com/",
+      "creator_url": "https://simcelebrity00.tumblr.com",
       "description": "adult to child/toddler conv."
-    },
-    {
-      "download": "https://www.tumblr.com/sleepyz-sims/826343831301767168/sc003",
-      "name": "Kim Hairs",
-      "creator": "@simcelebrity00",
-      "item": [
-        "hair"
-      ],
-      "ages": [
-        "toddler"
-      ],
-      "hair_type": [
-        "straight",
-        "updo"
-      ],
-      "types": [
-        "conversion"
-      ],
-      "image": "https://cdn.imgchest.com/files/1b3b38076469.png",
-      "creator_url": "https://simcelebrity00.tumblr.com/",
-      "description": "adult to toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/826200668134096896/ah00b16",
       "name": "Salena Hairs",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -405,13 +384,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/63eb172bb4f7.png",
-      "creator_url": "https://aharris00britney.tumblr.com/",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/826200668134096896/ah00b16",
       "name": "Celine Hairs",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -427,13 +406,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/e6f18188d854.png",
-      "creator_url": "https://aharris00britney.tumblr.com/",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/826200668134096896/ah00b16",
       "name": "Sugar Hairs",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -449,13 +428,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/7390cb21b76f.png",
-      "creator_url": "https://aharris00britney.tumblr.com/",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/825685783266672640/marsmerizingsims",
       "name": "Kiki Dress + Ursula Bow",
-      "creator": "@marsmerizingsims",
+      "creator": "marsmerizingsims",
       "item": [
         "clothes"
       ],
@@ -468,13 +447,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/11362cdeb537.png",
-      "creator_url": "https://marsmerizing-sims.tumblr.com/",
+      "creator_url": "https://marsmerizing-sims.tumblr.com",
       "description": "child to toddler/infant conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/825524883052232704/jackie",
       "name": "Jackie Hair",
-      "creator": "@daylifesims",
+      "creator": "daylifesims",
       "item": [
         "hair"
       ],
@@ -489,13 +468,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/c823af4154bb.png",
-      "creator_url": "https://daylifesims.tumblr.com/",
+      "creator_url": "https://daylifesims.tumblr.com",
       "description": "adult to toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/825324868121903104/ah00b15",
       "name": "Nezuko Hair",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -510,13 +489,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/24e0d6054e7e.png",
-      "creator_url": "https://aharris00britney.tumblr.com/",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/825324868121903104/ah00b15",
       "name": "Nezuko Kimono",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "clothes"
       ],
@@ -529,13 +508,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/32a3d24fbc2f.png",
-      "creator_url": "https://aharris00britney.tumblr.com/",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/825164957928800256/powluna2",
       "name": "Scarecrow Costume",
-      "creator": "@powluna",
+      "creator": "powluna",
       "item": [
         "clothes"
       ],
@@ -547,13 +526,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/9456622b1f04.png",
-      "creator_url": "https://powluna.tumblr.com/",
+      "creator_url": "https://powluna.tumblr.com",
       "description": "toddler to infant conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/825164957928800256/powluna2",
       "name": "Zombie Costume",
-      "creator": "@powluna",
+      "creator": "powluna",
       "item": [
         "clothes"
       ],
@@ -565,13 +544,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/311e67982f83.png",
-      "creator_url": "https://powluna.tumblr.com/",
+      "creator_url": "https://powluna.tumblr.com",
       "description": "child to toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/825164957928800256/powluna2",
       "name": "Vampire Costume",
-      "creator": "@powluna",
+      "creator": "powluna",
       "item": [
         "clothes"
       ],
@@ -583,13 +562,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/48ec3e329d3d.png",
-      "creator_url": "https://powluna.tumblr.com/",
+      "creator_url": "https://powluna.tumblr.com",
       "description": "child to toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/825164957928800256/powluna2",
       "name": "Superboy Costume",
-      "creator": "@powluna",
+      "creator": "powluna",
       "item": [
         "clothes"
       ],
@@ -602,13 +581,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/19679ba7a7f5.png",
-      "creator_url": "https://powluna.tumblr.com/",
+      "creator_url": "https://powluna.tumblr.com",
       "description": "toddler to child/infant conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/825164957928800256/powluna2",
       "name": "Supergirl Costume",
-      "creator": "@powluna",
+      "creator": "powluna",
       "item": [
         "clothes"
       ],
@@ -621,13 +600,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/3200a5b04616.png",
-      "creator_url": "https://powluna.tumblr.com/",
+      "creator_url": "https://powluna.tumblr.com",
       "description": "toddler to child/infant conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/824906240757039104/powluna1",
       "name": "Fairy Costume",
-      "creator": "@powluna",
+      "creator": "powluna",
       "item": [
         "clothes"
       ],
@@ -639,13 +618,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/f03ed0808e61.png",
-      "creator_url": "https://powluna.tumblr.com/",
+      "creator_url": "https://powluna.tumblr.com",
       "description": "toddler to infant conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/824906240757039104/powluna1",
       "name": "Witch Costume",
-      "creator": "@powluna",
+      "creator": "powluna",
       "item": [
         "clothes"
       ],
@@ -658,13 +637,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/36e704af6d51.png",
-      "creator_url": "https://powluna.tumblr.com/",
+      "creator_url": "https://powluna.tumblr.com",
       "description": "toddler to child/infant conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/824906240757039104/powluna1",
       "name": "Princess Costume",
-      "creator": "@powluna",
+      "creator": "powluna",
       "item": [
         "clothes"
       ],
@@ -677,13 +656,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/d2cdf9abb5aa.png",
-      "creator_url": "https://powluna.tumblr.com/",
+      "creator_url": "https://powluna.tumblr.com",
       "description": "toddler to child/infant conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/824906240757039104/powluna1",
       "name": "Skeleton Costume",
-      "creator": "@powluna",
+      "creator": "powluna",
       "item": [
         "clothes"
       ],
@@ -695,13 +674,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/f88660f85e6a.png",
-      "creator_url": "https://powluna.tumblr.com/",
+      "creator_url": "https://powluna.tumblr.com",
       "description": "toddler to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/824849743821848576/autumnlocs",
       "name": "Autumn Locs",
-      "creator": "@orchiona",
+      "creator": "orchiona",
       "item": [
         "hair"
       ],
@@ -718,13 +697,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/932b40197a59.png",
-      "creator_url": "https://orchiona.tumblr.com/",
+      "creator_url": "https://orchiona.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/824796853606432768/trillyke2",
       "name": "Silver Light Jeans",
-      "creator": "@trillyke",
+      "creator": "trillyke",
       "item": [
         "clothes"
       ],
@@ -737,13 +716,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/b3b062cd7cd6.png",
-      "creator_url": "https://trillyke.tumblr.com/",
+      "creator_url": "https://trillyke.tumblr.com",
       "description": "adult to toddler/infant conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/824796853606432768/trillyke2",
       "name": "Heartbreaker Loafers",
-      "creator": "@trillyke",
+      "creator": "trillyke",
       "item": [
         "shoes"
       ],
@@ -755,13 +734,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/813134599ee1.png",
-      "creator_url": "https://trillyke.tumblr.com/",
+      "creator_url": "https://trillyke.tumblr.com",
       "description": "adult to infant conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/824720833547255808/ah00b14",
       "name": "Jay Jacket",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "clothes"
       ],
@@ -774,13 +753,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/2c92b3f5888f.png",
-      "creator_url": "https://aharris00britney.tumblr.com/",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/824720833547255808/ah00b14",
       "name": "Butterfly Necklaces",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "accessory"
       ],
@@ -792,7 +771,7 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/0eb8de6a27f2.png",
-      "creator_url": "https://aharris00britney.tumblr.com/",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child conv."
     },
     {
@@ -816,7 +795,7 @@
     {
       "download": "https://www.tumblr.com/sleepyz-sims/824551411340705792/joliebean1",
       "name": "T-rex Bottoms",
-      "creator": "@joliebean",
+      "creator": "joliebean",
       "item": [
         "clothes"
       ],
@@ -829,13 +808,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/9a91e6161bba.png",
-      "creator_url": "https://joliebean.tumblr.com/",
+      "creator_url": "https://joliebean.tumblr.com",
       "description": "child to toddler/infant conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/824551411340705792/joliebean1",
       "name": "T-rex Top",
-      "creator": "@joliebean",
+      "creator": "joliebean",
       "item": [
         "clothes"
       ],
@@ -848,13 +827,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/c3ad214d9c53.png",
-      "creator_url": "https://joliebean.tumblr.com/",
+      "creator_url": "https://joliebean.tumblr.com",
       "description": "child to toddler/infant conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/824551411340705792/joliebean1",
       "name": "Rosy Dress",
-      "creator": "@joliebean",
+      "creator": "joliebean",
       "item": [
         "clothes"
       ],
@@ -867,13 +846,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/07436a1bbda8.png",
-      "creator_url": "https://joliebean.tumblr.com/",
+      "creator_url": "https://joliebean.tumblr.com",
       "description": "child to toddler/infant conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/824551411340705792/joliebean1",
       "name": "Rascal Bottoms",
-      "creator": "@joliebean",
+      "creator": "joliebean",
       "item": [
         "clothes"
       ],
@@ -886,13 +865,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/005d65a292ca.png",
-      "creator_url": "",
+      "creator_url": "https://joliebean.tumblr.com",
       "description": "child to toddler/infant conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/824551411340705792/joliebean1",
       "name": "Pippi Hair",
-      "creator": "@joliebean",
+      "creator": "joliebean",
       "item": [
         "hair"
       ],
@@ -908,13 +887,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/6cbe1df66cfc.png",
-      "creator_url": "",
+      "creator_url": "https://joliebean.tumblr.com",
       "description": "child to toddler/infant conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/824551411340705792/joliebean1",
       "name": "Bo Peep Skirt",
-      "creator": "@joliebean",
+      "creator": "joliebean",
       "item": [
         "clothes"
       ],
@@ -927,13 +906,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/ba43256de92d.png",
-      "creator_url": "",
+      "creator_url": "https://joliebean.tumblr.com",
       "description": "child to toddler/infant conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/824444086577709056/imvikai6",
       "name": "Butterfly Hair",
-      "creator": "@imvikai",
+      "creator": "imvikai",
       "item": [
         "hair"
       ],
@@ -949,13 +928,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/5c7e4b22b17d.png",
-      "creator_url": "",
+      "creator_url": "https://imvikai.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/824444086577709056/imvikai6",
       "name": "Pantheress Hairs",
-      "creator": "@imvikai",
+      "creator": "imvikai",
       "item": [
         "hair"
       ],
@@ -970,13 +949,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/daaa1f48b9a1.png",
-      "creator_url": "",
+      "creator_url": "https://imvikai.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/824256554847125504/dogsill4",
       "name": "Genesis Braids",
-      "creator": "@dogsill",
+      "creator": "dogsill",
       "item": [
         "hair"
       ],
@@ -993,33 +972,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/fc1ef63d5a18.png",
-      "creator_url": "",
+      "creator_url": "https://dogsill.tumblr.com",
       "description": "adult to child/toddler conv."
-    },
-    {
-      "download": "https://www.tumblr.com/sleepyz-sims/824256554847125504/dogsill4",
-      "name": "Brandy Hair",
-      "creator": "@dogsill",
-      "item": [
-        "hair"
-      ],
-      "ages": [
-        "toddler"
-      ],
-      "hair_type": [
-        "curly/wavy"
-      ],
-      "types": [
-        "conversion"
-      ],
-      "image": "https://cdn.imgchest.com/files/ff8fcf783485.png",
-      "creator_url": "",
-      "description": "adult to toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/824173383303495680/johnnysims6",
       "name": "Alexander Hair",
-      "creator": "@johnnysimmer",
+      "creator": "johnnysimmer",
       "item": [
         "hair"
       ],
@@ -1035,13 +994,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/44a62278a633.png",
-      "creator_url": "",
+      "creator_url": "https://johnnysimmer.tumblr.com",
       "description": "adult to all kids conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/824173383303495680/johnnysims6",
       "name": "Thirdy Hairs",
-      "creator": "@johnnysimmer",
+      "creator": "johnnysimmer",
       "item": [
         "hair"
       ],
@@ -1057,13 +1016,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/ed3c83fa4dc5.png",
-      "creator_url": "",
+      "creator_url": "https://johnnysimmer.tumblr.com",
       "description": "adult to all kids conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/823815095679434752/ah00b13",
       "name": "Sean Hairs",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -1079,13 +1038,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/ce1441d9d3df.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to all kids conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/823815095679434752/ah00b13",
       "name": "Vixen Hairs",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -1100,13 +1059,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/402055164bd9.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/823815095679434752/ah00b13",
       "name": "Dollie Hairs",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -1122,13 +1081,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/5a4dd5e75e5c.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to all kids conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/823415871497240576/yelena",
       "name": "Yelena Hair",
-      "creator": "@sleepyz-sims",
+      "creator": "sleepyz-sims",
       "item": [
         "hair"
       ],
@@ -1151,7 +1110,7 @@
     {
       "download": "https://www.tumblr.com/sleepyz-sims/823325760709410816/ah00b12",
       "name": "Destiny Hairs",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -1166,13 +1125,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/9d8aa75b95c2.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/823325760709410816/ah00b12",
       "name": "Desiree Hairs",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -1187,13 +1146,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/6ff36cf70553.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/822887382604005376/hairs3",
       "name": "Zelda Hairs",
-      "creator": "@simplesimmer",
+      "creator": "simplesimmer",
       "item": [
         "hair"
       ],
@@ -1209,13 +1168,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/5a45cc9172c1.png",
-      "creator_url": "",
+      "creator_url": "https://blogsimplesimmer.tumblr.com",
       "description": "adult to all kids conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/822887382604005376/hairs3",
       "name": "Delicate Hair",
-      "creator": "@joliebean",
+      "creator": "joliebean",
       "item": [
         "hair"
       ],
@@ -1231,13 +1190,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/1cc8fddca674.png",
-      "creator_url": "",
+      "creator_url": "https://joliebean.tumblr.com",
       "description": "adult to all kids conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/822828280988221440/lamalama",
       "name": "Anneliese Hair",
-      "creator": "@lama-lama",
+      "creator": "lama-lama",
       "item": [
         "hair"
       ],
@@ -1251,13 +1210,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/82530cf4a53f.png",
-      "creator_url": "",
+      "creator_url": "https://lama-lama.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/822828280988221440/lamalama",
       "name": "Lyra Hair",
-      "creator": "@lama-lama",
+      "creator": "lama-lama",
       "item": [
         "hair"
       ],
@@ -1272,13 +1231,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/b65c1f7149f3.png",
-      "creator_url": "",
+      "creator_url": "https://lama-lama.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/822828280988221440/lamalama",
       "name": "Princess Annika Hair V1",
-      "creator": "@lama-lama",
+      "creator": "lama-lama",
       "item": [
         "hair"
       ],
@@ -1292,13 +1251,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/aead03e9ed77.png",
-      "creator_url": "",
+      "creator_url": "https://lama-lama.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/822632456075313152/ah00b11",
       "name": "Joey Jorts V1",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "clothes"
       ],
@@ -1311,13 +1270,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/933f4ba0581b.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/822632456075313152/ah00b11",
       "name": "Leon Jacket V2",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "clothes"
       ],
@@ -1330,13 +1289,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/f61c9d9857d3.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/822239503323480064/amberrrrrrr",
       "name": "Yang Hair",
-      "creator": "@Amberrrrrrr_",
+      "creator": "simamberrrrrrr",
       "item": [
         "hair"
       ],
@@ -1352,13 +1311,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/083c7e06a8a9.png",
-      "creator_url": "",
+      "creator_url": "https://www.tumblr.com/simamberrrrrrr",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/822239503323480064/amberrrrrrr",
       "name": "Novia Hair",
-      "creator": "@Amberrrrrrr_",
+      "creator": "simamberrrrrrr",
       "item": [
         "hair"
       ],
@@ -1374,13 +1333,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/502d23e70a8d.png",
-      "creator_url": "",
+      "creator_url": "https://www.tumblr.com/simamberrrrrrr",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/822239503323480064/amberrrrrrr",
       "name": "Ivy Hair",
-      "creator": "@Amberrrrrrr_",
+      "creator": "simamberrrrrrr",
       "item": [
         "hair"
       ],
@@ -1395,13 +1354,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/ea0231994192.png",
-      "creator_url": "",
+      "creator_url": "https://www.tumblr.com/simamberrrrrrr",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/822110801349476352/josie",
       "name": "Josie Hairs",
-      "creator": "@sunivaa",
+      "creator": "sunivaa",
       "item": [
         "hair"
       ],
@@ -1416,13 +1375,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/e9bdfa8c5a48.png",
-      "creator_url": "",
+      "creator_url": "https://sunivaa.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/821547263458508800/swanlake",
       "name": "The Chosen One Tiara",
-      "creator": "@joliebean",
+      "creator": "joliebean",
       "item": [
         "accessory"
       ],
@@ -1435,13 +1394,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/59923cfdb4d1.png",
-      "creator_url": "",
+      "creator_url": "https://joliebean.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/821547263458508800/swanlake",
       "name": "Odette Necklace",
-      "creator": "@joliebean",
+      "creator": "joliebean",
       "item": [
         "accessory"
       ],
@@ -1454,13 +1413,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/b162eb040c4e.png",
-      "creator_url": "",
+      "creator_url": "https://joliebean.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/821547263458508800/swanlake",
       "name": "Swan Princess Dress",
-      "creator": "@joliebean",
+      "creator": "joliebean",
       "item": [
         "clothes"
       ],
@@ -1473,13 +1432,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/fa6b72310cec.png",
-      "creator_url": "",
+      "creator_url": "https://joliebean.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/821453507535192064/yunara",
       "name": "Yunara Hair",
-      "creator": "@sleepyz-sims",
+      "creator": "sleepyz-sims",
       "item": [
         "hair"
       ],
@@ -1502,7 +1461,7 @@
     {
       "download": "https://www.tumblr.com/sleepyz-sims/821194332160851968/hairs2",
       "name": "Hi High Pony",
-      "creator": "@yooniesim",
+      "creator": "yooniesim",
       "item": [
         "hair"
       ],
@@ -1517,7 +1476,7 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/e2de317fddc5.png",
-      "creator_url": "",
+      "creator_url": "https://yooniesim.tumblr.com",
       "description": "adult to child conv."
     },
     {
@@ -1544,26 +1503,8 @@
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/821098231240982528/clothes2",
-      "name": "Angel Shoes",
-      "creator": "@aharris00britney",
-      "item": [
-        "shoes"
-      ],
-      "ages": [
-        "infant"
-      ],
-      "hair_type": [],
-      "types": [
-        "conversion"
-      ],
-      "image": "https://cdn.imgchest.com/files/c87fca906569.png",
-      "creator_url": "",
-      "description": "adult to infant conv."
-    },
-    {
-      "download": "https://www.tumblr.com/sleepyz-sims/821098231240982528/clothes2",
       "name": "Macaron Earrings",
-      "creator": "@pralinesims",
+      "creator": "pralinesims",
       "item": [
         "accessory"
       ],
@@ -1577,13 +1518,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/87d43f5fc18e.png",
-      "creator_url": "",
+      "creator_url": "https://pralinesims.net/tagged/my%20cc",
       "description": "adult to all kids conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/821098231240982528/clothes2",
       "name": "Leather Jacket",
-      "creator": "@liyahsim",
+      "creator": "liyahsim",
       "item": [
         "clothes"
       ],
@@ -1596,13 +1537,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/a1eda8f54893.png",
-      "creator_url": "",
+      "creator_url": "https://liyahsim.tumblr.com",
       "description": "child to toddler/infant conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/821098231240982528/clothes2",
       "name": "Parka",
-      "creator": "@luxysims",
+      "creator": "luxysims",
       "item": [
         "clothes"
       ],
@@ -1615,33 +1556,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/59d366c74aa6.png",
-      "creator_url": "",
+      "creator_url": "https://luxysims.tumblr.com",
       "description": "child to toddler/infant conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/820997070493253632/johnnysims5",
-      "name": "Alexei Hairs",
-      "creator": "@johnnysimmer",
-      "item": [
-        "hair"
-      ],
-      "ages": [
-        "toddler"
-      ],
-      "hair_type": [
-        "straight"
-      ],
-      "types": [
-        "conversion"
-      ],
-      "image": "https://cdn.imgchest.com/files/51840931f642.png",
-      "creator_url": "",
-      "description": "adult to toddler conv."
-    },
-    {
-      "download": "https://www.tumblr.com/sleepyz-sims/820997070493253632/johnnysims5",
       "name": "Arnold Hairs",
-      "creator": "@johnnysimmer",
+      "creator": "johnnysimmer",
       "item": [
         "hair"
       ],
@@ -1657,13 +1578,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/5a7dcf1131cc.png",
-      "creator_url": "",
+      "creator_url": "https://johnnysimmer.tumblr.com",
       "description": "adult to all kids conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/820997070493253632/johnnysims5",
       "name": "Peter Parker Hair",
-      "creator": "@johnnysimmer",
+      "creator": "johnnysimmer",
       "item": [
         "hair"
       ],
@@ -1678,13 +1599,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/dab952012025.png",
-      "creator_url": "",
+      "creator_url": "https://johnnysimmer.tumblr.com",
       "description": "adult to toddler/infant conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/820831589354405888/ah00b11",
       "name": "Spice Hairs",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -1700,13 +1621,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/e2a1c2ecff41.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/820831589354405888/ah00b11",
       "name": "Zara Hairs",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -1721,13 +1642,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/11cac0abe268.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/820831589354405888/ah00b11",
       "name": "Manon Hairs",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -1743,13 +1664,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/94edffdb86cc.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/820473888659161088/xiuminuwu",
       "name": "Storm Puffer Jacket",
-      "creator": "@xiuminuwu",
+      "creator": "xiuminuwu",
       "item": [
         "clothes"
       ],
@@ -1762,13 +1683,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/7d469cb1582d.png",
-      "creator_url": "",
+      "creator_url": "https://xiuminuwu.tumblr.com",
       "description": "adult to toddler/infant conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/820473888659161088/xiuminuwu",
       "name": "Elevator Hoodie V3",
-      "creator": "@xiuminuwu",
+      "creator": "xiuminuwu",
       "item": [
         "clothes"
       ],
@@ -1781,13 +1702,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/536c9c7bea58.png",
-      "creator_url": "",
+      "creator_url": "https://xiuminuwu.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/820262460256845824/simstrouble3",
       "name": "Abeni Twists V3",
-      "creator": "@simstrouble",
+      "creator": "simstrouble",
       "item": [
         "hair"
       ],
@@ -1802,13 +1723,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/ede2ba18385b.png",
-      "creator_url": "",
+      "creator_url": "https://simstrouble.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/820262460256845824/simstrouble3",
       "name": "Miruna Hairs",
-      "creator": "@simstrouble",
+      "creator": "simstrouble",
       "item": [
         "hair"
       ],
@@ -1823,13 +1744,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/ba7bf77b0c46.png",
-      "creator_url": "",
+      "creator_url": "https://simstrouble.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/820018500206772224/trillyke-conversions",
       "name": "Rebel Heart Shoes",
-      "creator": "@trillyke",
+      "creator": "trillyke",
       "item": [
         "shoes"
       ],
@@ -1841,7 +1762,7 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/f06d2a5854ab.png",
-      "creator_url": "",
+      "creator_url": "https://trillyke.tumblr.com",
       "description": "adult to child conv."
     },
     {
@@ -1861,7 +1782,8 @@
       ],
       "description": "adult to all kids conv.",
       "creator": "trillyke",
-      "download": "https://www.tumblr.com/sleepyz-sims/820018500206772224/trillyke-conversions"
+      "download": "https://www.tumblr.com/sleepyz-sims/820018500206772224/trillyke-conversions",
+      "creator_url": "https://trillyke.tumblr.com"
     },
     {
       "name": "Gust Denim Coat",
@@ -1879,12 +1801,13 @@
       ],
       "description": "adult to all kids conv.",
       "creator": "trillyke",
-      "download": "https://www.tumblr.com/sleepyz-sims/820018500206772224/trillyke-conversions"
+      "download": "https://www.tumblr.com/sleepyz-sims/820018500206772224/trillyke-conversions",
+      "creator_url": "https://trillyke.tumblr.com"
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/820018500206772224/trillyke-conversions",
       "name": "Pluto Cropped Jacket",
-      "creator": "@trillyke",
+      "creator": "trillyke",
       "item": [
         "clothes"
       ],
@@ -1898,7 +1821,7 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/a62cc720e503.png",
-      "creator_url": "",
+      "creator_url": "https://trillyke.tumblr.com",
       "description": "adult to all kids conv."
     },
     {
@@ -1920,12 +1843,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/779bf1568efd.png",
-      "description": "adult to child conv."
+      "description": "adult to child conv.",
+      "creator_url": "https://lechairschair.tumblr.com"
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/819580487529070592/hairs1",
       "name": "Rhaenyra's Farewell Hair",
-      "creator": "@lechairschair",
+      "creator": "lechairschair",
       "item": [
         "hair"
       ],
@@ -1940,13 +1864,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/7900b8ad1de2.png",
-      "creator_url": "",
+      "creator_url": "https://lechairschair.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/819580487529070592/hairs1",
       "name": "Alicent Hair",
-      "creator": "@lama-lama",
+      "creator": "lama-lama",
       "item": [
         "hair"
       ],
@@ -1960,13 +1884,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/0cf2be372890.png",
-      "creator_url": "",
+      "creator_url": "https://lama-lama.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/819580487529070592/hairs1",
       "name": "Alicent Hightower Hair",
-      "creator": "@lama-lama",
+      "creator": "lama-lama",
       "item": [
         "hair"
       ],
@@ -1980,34 +1904,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/981c66c3e0a3.png",
-      "creator_url": "",
+      "creator_url": "https://lama-lama.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/819537490066210816/twistedcat1",
-      "name": "Lulie Hair",
-      "creator": "@twistedcat",
-      "item": [
-        "hair"
-      ],
-      "ages": [
-        "infant"
-      ],
-      "hair_type": [
-        "straight",
-        "updo"
-      ],
-      "types": [
-        "conversion"
-      ],
-      "image": "https://cdn.imgchest.com/files/4d271fe4387f.png",
-      "creator_url": "",
-      "description": "adult to infant conv."
-    },
-    {
-      "download": "https://www.tumblr.com/sleepyz-sims/819537490066210816/twistedcat1",
       "name": "Latte Dress",
-      "creator": "@twistedcat",
+      "creator": "twisted-cat",
       "item": [
         "clothes"
       ],
@@ -2020,13 +1923,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/20a1fe0b3875.png",
-      "creator_url": "",
+      "creator_url": "https://twisted-cat.tumblr.com",
       "description": "adult to toddler/infant conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/819537490066210816/twistedcat1",
       "name": "Latte Pants",
-      "creator": "@twistedcat",
+      "creator": "twisted-cat",
       "item": [
         "clothes"
       ],
@@ -2039,13 +1942,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/44a28969b5bd.png",
-      "creator_url": "",
+      "creator_url": "https://twisted-cat.tumblr.com",
       "description": "adult to toddler/infant conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/819537490066210816/twistedcat1",
       "name": "Latte Top",
-      "creator": "@twistedcat",
+      "creator": "twisted-cat",
       "item": [
         "clothes"
       ],
@@ -2058,13 +1961,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/6b515c875f7a.png",
-      "creator_url": "",
+      "creator_url": "https://twisted-cat.tumblr.com",
       "description": "adult to toddler/infant conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/819098829996589056/ah00b10",
       "name": "Chris Hairs",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -2079,13 +1982,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/ab03c0200efe.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to toddler/infant conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/819098829996589056/ah00b10",
       "name": "Leon Hairs",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -2101,13 +2004,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/63a58e3ac799.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to all kids conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/818799949591543809/conv2",
       "name": "Robert Hair",
-      "creator": "@wistfulcastle",
+      "creator": "wistfulcastle",
       "item": [
         "hair"
       ],
@@ -2122,13 +2025,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/b9a81df59d0c.png",
-      "creator_url": "",
+      "creator_url": "https://wistfulcastle.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/818799949591543809/conv2",
       "name": "Clementine Curls",
-      "creator": "@sleepingsims",
+      "creator": "sleepingsims",
       "item": [
         "hair"
       ],
@@ -2143,13 +2046,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/67713aa9087e.png",
-      "creator_url": "",
+      "creator_url": "https://sleepingsims.tumblr.com",
       "description": "adult to toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/818799949591543809/conv2",
       "name": "Shiloh Hair",
-      "creator": "@okruee",
+      "creator": "okruee",
       "item": [
         "hair"
       ],
@@ -2164,13 +2067,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/b8e6ea65f634.png",
-      "creator_url": "",
+      "creator_url": "https://okruee.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/818632078061191168/vans",
       "name": "Old Skool Vans",
-      "creator": "@casteru",
+      "creator": "casteru",
       "item": [
         "shoes"
       ],
@@ -2182,13 +2085,13 @@
         "recolor"
       ],
       "image": "https://cdn.imgchest.com/files/31ccbedd68de.png",
-      "creator_url": "",
+      "creator_url": "https://casteru.tumblr.com",
       "description": "toddler shoes recolor"
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/818574903881220096/ah00b9",
       "name": "Gia V1-2 Hair",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -2205,13 +2108,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/c94d173ad2a5.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/818574903881220096/ah00b9",
       "name": "Tyra V1 hair",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -2227,13 +2130,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/10cad76bc1e5.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to all kids conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/818574903881220096/ah00b9",
       "name": "Hinako V3 hair",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -2249,13 +2152,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/8eb35f13fb7f.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to all kids conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/818388108581240832/clothes1",
       "name": "Amelia Espadrilles",
-      "creator": "@madlen",
+      "creator": "madlensims",
       "item": [
         "shoes"
       ],
@@ -2269,13 +2172,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/cca9a4bf8430.png",
-      "creator_url": "",
+      "creator_url": "https://madlensims.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/818388108581240832/clothes1",
       "name": "Pyon-Pyon Slides",
-      "creator": "@madlen",
+      "creator": "madlensims",
       "item": [
         "shoes"
       ],
@@ -2289,13 +2192,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/978cd0454e3c.png",
-      "creator_url": "",
+      "creator_url": "https://madlensims.tumblr.com",
       "description": "adult to all kids conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/818388108581240832/clothes1",
       "name": "Regalia Princess Dress",
-      "creator": "@madlen",
+      "creator": "madlensims",
       "item": [
         "clothes"
       ],
@@ -2307,13 +2210,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/24187cdd505e.png",
-      "creator_url": "",
+      "creator_url": "https://madlensims.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/818388108581240832/clothes1",
       "name": "Toadstool Dungarees",
-      "creator": "@mossylane",
+      "creator": "mossylane",
       "item": [
         "clothes"
       ],
@@ -2326,13 +2229,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/b01f0e72f6af.png",
-      "creator_url": "",
+      "creator_url": "https://mossylane.tumblr.com",
       "description": "child to toddler/infant conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/818201803119263744/liyahsim",
       "name": "Dress with Shirt",
-      "creator": "@liyahsim",
+      "creator": "liyahsim",
       "item": [
         "clothes"
       ],
@@ -2346,13 +2249,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/4d17153f2662.png",
-      "creator_url": "",
+      "creator_url": "https://liyahsim.tumblr.com",
       "description": "child to toddler/infant conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/818201803119263744/liyahsim",
       "name": "Flats with Ribbons",
-      "creator": "@liyahsim",
+      "creator": "liyahsim",
       "item": [
         "shoes"
       ],
@@ -2366,13 +2269,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/e8dbc023593d.png",
-      "creator_url": "",
+      "creator_url": "https://liyahsim.tumblr.com",
       "description": "child to all kids conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/818201803119263744/liyahsim",
       "name": "Utility Pants",
-      "creator": "@liyahsim",
+      "creator": "liyahsim",
       "item": [
         "clothes"
       ],
@@ -2386,13 +2289,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/515694f9da0a.png",
-      "creator_url": "",
+      "creator_url": "https://liyahsim.tumblr.com",
       "description": "child to all kids conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/818201803119263744/liyahsim",
       "name": "Sherpa Jacket",
-      "creator": "@liyahsim",
+      "creator": "liyahsim",
       "item": [
         "clothes"
       ],
@@ -2406,13 +2309,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/60a03cf07f7f.png",
-      "creator_url": "",
+      "creator_url": "https://liyahsim.tumblr.com",
       "description": "child to all kids conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/818094911295504384/orchiona2",
       "name": "Aaliah Hair",
-      "creator": "@orchiona",
+      "creator": "orchiona",
       "item": [
         "hair"
       ],
@@ -2430,13 +2333,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/cd65c33f11e1.png",
-      "creator_url": "",
+      "creator_url": "https://orchiona.tumblr.com",
       "description": "child to all kids conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/818094911295504384/orchiona2",
       "name": "Aubrey Hair",
-      "creator": "@orchiona",
+      "creator": "orchiona",
       "item": [
         "hair"
       ],
@@ -2453,13 +2356,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/67b1c4617d98.png",
-      "creator_url": "",
+      "creator_url": "https://orchiona.tumblr.com",
       "description": "child to all kids conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/818094911295504384/orchiona2",
       "name": "Dorothy Hair",
-      "creator": "@orchiona",
+      "creator": "orchiona",
       "item": [
         "hair"
       ],
@@ -2476,13 +2379,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/d36bd7857868.png",
-      "creator_url": "",
+      "creator_url": "https://orchiona.tumblr.com",
       "description": "child to all kids conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/818094911295504384/orchiona2",
       "name": "Lara Hair",
-      "creator": "@orchiona",
+      "creator": "orchiona",
       "item": [
         "hair"
       ],
@@ -2499,13 +2402,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/e43352da0e07.png",
-      "creator_url": "",
+      "creator_url": "https://orchiona.tumblr.com",
       "description": "child to all kids conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/818094911295504384/orchiona2",
       "name": "Raven Hair",
-      "creator": "@orchiona",
+      "creator": "orchiona",
       "item": [
         "hair"
       ],
@@ -2520,13 +2423,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/d672da040a75.png",
-      "creator_url": "",
+      "creator_url": "https://orchiona.tumblr.com",
       "description": "child to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/818094911295504384/orchiona2",
       "name": "Ryen Hair",
-      "creator": "@orchiona",
+      "creator": "orchiona",
       "item": [
         "hair"
       ],
@@ -2543,13 +2446,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/c621835f7213.png",
-      "creator_url": "",
+      "creator_url": "https://orchiona.tumblr.com",
       "description": "child to all kids conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/817999147345100800/simandy3",
       "name": "Joou-Sama Hairs",
-      "creator": "@simandy",
+      "creator": "simandy",
       "item": [
         "hair"
       ],
@@ -2564,13 +2467,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/580b81797934.png",
-      "creator_url": "",
+      "creator_url": "https://simandy.tumblr.com",
       "description": "child to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/817999147345100800/simandy3",
       "name": "Larsson Hair",
-      "creator": "@simandy",
+      "creator": "simandy",
       "item": [
         "hair"
       ],
@@ -2585,13 +2488,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/4fe4b86d07cf.png",
-      "creator_url": "",
+      "creator_url": "https://simandy.tumblr.com",
       "description": "child to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/817999147345100800/simandy3",
       "name": "Prisma Hair",
-      "creator": "@simandy",
+      "creator": "simandy",
       "item": [
         "hair"
       ],
@@ -2607,13 +2510,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/585d8a3a10e2.png",
-      "creator_url": "",
+      "creator_url": "https://simandy.tumblr.com",
       "description": "child to all kids conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/817888140895436800/madlen",
       "name": "Plaid Rush Coat",
-      "creator": "@madlen",
+      "creator": "madlensims",
       "item": [
         "clothes"
       ],
@@ -2627,13 +2530,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/17a2f9f531bb.png",
-      "creator_url": "",
+      "creator_url": "https://madlensims.tumblr.com",
       "description": "child to all kids conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/817888140895436800/madlen",
       "name": "Pappillon Shoes (Ballet)",
-      "creator": "@madlen",
+      "creator": "madlensims",
       "item": [
         "shoes"
       ],
@@ -2647,13 +2550,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/400fd200c1c1.png",
-      "creator_url": "",
+      "creator_url": "https://madlensims.tumblr.com",
       "description": "child to all kids conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/817888140895436800/madlen",
       "name": "Moumou Backpack",
-      "creator": "@madlen",
+      "creator": "madlensims",
       "item": [
         "accessory"
       ],
@@ -2667,13 +2570,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/ef889d09c787.png",
-      "creator_url": "",
+      "creator_url": "https://madlensims.tumblr.com",
       "description": "child to all kids conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/817749623522426880/daylifesims-hair-conversions",
       "name": "Alek Hair",
-      "creator": "@daylifesims",
+      "creator": "daylifesims",
       "item": [
         "hair"
       ],
@@ -2688,13 +2591,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/2a88272c2534.png",
-      "creator_url": "",
+      "creator_url": "https://daylifesims.tumblr.com",
       "description": "child to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/817749623522426880/daylifesims-hair-conversions",
       "name": "Ben Hair",
-      "creator": "@daylifesims",
+      "creator": "daylifesims",
       "item": [
         "hair"
       ],
@@ -2709,13 +2612,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/e72ab2038082.png",
-      "creator_url": "",
+      "creator_url": "https://daylifesims.tumblr.com",
       "description": "child to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/817749623522426880/daylifesims-hair-conversions",
       "name": "Karol Hair",
-      "creator": "@daylifesims",
+      "creator": "daylifesims",
       "item": [
         "hair"
       ],
@@ -2730,13 +2633,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/2ef04c94c410.png",
-      "creator_url": "",
+      "creator_url": "https://daylifesims.tumblr.com",
       "description": "child to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/817638149412077568/mateo",
       "name": "Mateo Hairs",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -2751,13 +2654,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/75caaaf8531a.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "child to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/817449332329594880/lfa1",
       "name": "Overall Dress",
-      "creator": "@liyahsim",
+      "creator": "liyahsim",
       "item": [
         "clothes"
       ],
@@ -2770,13 +2673,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/6013c49d907a.png",
-      "creator_url": "",
+      "creator_url": "https://liyahsim.tumblr.com",
       "description": "child to toddler/infant conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/817449332329594880/lfa1",
       "name": "Overall",
-      "creator": "@liyahsim",
+      "creator": "liyahsim",
       "item": [
         "clothes"
       ],
@@ -2789,13 +2692,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/b376d90da5b9.png",
-      "creator_url": "",
+      "creator_url": "https://liyahsim.tumblr.com",
       "description": "child to toddler/infant conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/817449332329594880/lfa1",
       "name": "Dress",
-      "creator": "@luxysims",
+      "creator": "luxysims",
       "item": [
         "clothes"
       ],
@@ -2808,13 +2711,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/3be6d22699a8.png",
-      "creator_url": "",
+      "creator_url": "https://luxysims.tumblr.com",
       "description": "child to toddler/infant conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/817297202754027520/simstrouble2",
       "name": "Marcia Hair",
-      "creator": "@simstrouble",
+      "creator": "simstrouble",
       "item": [
         "hair"
       ],
@@ -2829,13 +2732,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/8ded34a107ca.png",
-      "creator_url": "",
+      "creator_url": "https://simstrouble.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/817297202754027520/simstrouble2",
       "name": "Talita Hairs",
-      "creator": "@simstrouble",
+      "creator": "simstrouble",
       "item": [
         "hair"
       ],
@@ -2850,13 +2753,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/3389890910be.png",
-      "creator_url": "",
+      "creator_url": "https://simstrouble.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/817297202754027520/simstrouble2",
       "name": "Malina Hairs",
-      "creator": "@simstrouble",
+      "creator": "simstrouble",
       "item": [
         "hair"
       ],
@@ -2871,13 +2774,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/3b9c10a2314d.png",
-      "creator_url": "",
+      "creator_url": "https://simstrouble.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/816844155080916992/dogsill3",
       "name": "Lottie Hair",
-      "creator": "@dogsill",
+      "creator": "dogsill",
       "item": [
         "hair"
       ],
@@ -2892,35 +2795,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/5a0c9ecccfe4.png",
-      "creator_url": "",
+      "creator_url": "https://dogsill.tumblr.com",
       "description": "adult to child conv."
-    },
-    {
-      "download": "https://www.tumblr.com/sleepyz-sims/816844155080916992/dogsill3",
-      "name": "Taliyah Pigtails",
-      "creator": "@dogsill",
-      "item": [
-        "hair"
-      ],
-      "ages": [
-        "toddler",
-        "infant"
-      ],
-      "hair_type": [
-        "straight",
-        "updo"
-      ],
-      "types": [
-        "conversion"
-      ],
-      "image": "https://cdn.imgchest.com/files/0f495856db7c.png",
-      "creator_url": "",
-      "description": "adult to infant/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/816740349265477632/johnnysims4",
       "name": "Gustave Hair",
-      "creator": "@johnnysimmer",
+      "creator": "johnnysimmer",
       "item": [
         "hair"
       ],
@@ -2935,13 +2816,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/59a9c4700a75.png",
-      "creator_url": "",
+      "creator_url": "https://johnnysimmer.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/816740349265477632/johnnysims4",
       "name": "Khalil Hair",
-      "creator": "@johnnysimmer",
+      "creator": "johnnysimmer",
       "item": [
         "hair"
       ],
@@ -2956,13 +2837,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/dfd75017f2f7.png",
-      "creator_url": "",
+      "creator_url": "https://johnnysimmer.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/816740349265477632/johnnysims4",
       "name": "Randy Hair",
-      "creator": "@johnnysimmer",
+      "creator": "johnnysimmer",
       "item": [
         "hair"
       ],
@@ -2978,13 +2859,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/615c30a2ab1b.png",
-      "creator_url": "",
+      "creator_url": "https://johnnysimmer.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/816740349265477632/johnnysims4",
       "name": "Ronan Hairs",
-      "creator": "@johnnysimmer",
+      "creator": "johnnysimmer",
       "item": [
         "hair"
       ],
@@ -2999,13 +2880,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/cee0d8b09016.png",
-      "creator_url": "",
+      "creator_url": "https://johnnysimmer.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/816009877888565248/johnnysims3",
       "name": "Benedict V3 Hair",
-      "creator": "@johnnysimmer",
+      "creator": "johnnysimmer",
       "item": [
         "hair"
       ],
@@ -3019,13 +2900,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/3f0b0fde58bc.png",
-      "creator_url": "",
+      "creator_url": "https://johnnysimmer.tumblr.com",
       "description": "adult to toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/816009877888565248/johnnysims3",
       "name": "Carlos Hair",
-      "creator": "@johnnysimmer",
+      "creator": "johnnysimmer",
       "item": [
         "hair"
       ],
@@ -3040,13 +2921,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/835afbd52778.png",
-      "creator_url": "",
+      "creator_url": "https://johnnysimmer.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/816009877888565248/johnnysims3",
       "name": "Deshawn Hair",
-      "creator": "@johnnysimmer",
+      "creator": "johnnysimmer",
       "item": [
         "hair"
       ],
@@ -3061,13 +2942,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/6c167c90ab6e.png",
-      "creator_url": "",
+      "creator_url": "https://johnnysimmer.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/815572170862477312/petittoast",
       "name": "Petit Toast Earrings",
-      "creator": "@nolan-sims",
+      "creator": "nolan-sims",
       "item": [
         "accessory"
       ],
@@ -3081,13 +2962,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/27ca888b85a3.png",
-      "creator_url": "",
+      "creator_url": "https://nolan-sims.tumblr.com",
       "description": "adult to all kids conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/815386675856457728/marso",
       "name": "Araw Hair",
-      "creator": "@marsosims",
+      "creator": "marsosims",
       "item": [
         "hair"
       ],
@@ -3102,13 +2983,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/7e72876bb982.png",
-      "creator_url": "",
+      "creator_url": "https://marsosims.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/815386675856457728/marso",
       "name": "Estella Hair",
-      "creator": "@marsosims",
+      "creator": "marsosims",
       "item": [
         "hair"
       ],
@@ -3123,13 +3004,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/a9e9c57c61ce.png",
-      "creator_url": "",
+      "creator_url": "https://marsosims.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/815386675856457728/marso",
       "name": "Trista Hair",
-      "creator": "@marsosims",
+      "creator": "marsosims",
       "item": [
         "hair"
       ],
@@ -3144,13 +3025,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/15f6f7d94727.png",
-      "creator_url": "",
+      "creator_url": "https://marsosims.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/815296259091021824/ah00b9",
       "name": "Lane Shirts",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "clothes"
       ],
@@ -3163,13 +3044,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/fe98d159ca73.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/815296259091021824/ah00b9",
       "name": "Genesis Hoodie ",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "clothes"
       ],
@@ -3182,13 +3063,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/c6e1496aba92.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/815296259091021824/ah00b9",
       "name": "Hellboy Boots",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "shoes"
       ],
@@ -3202,13 +3083,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/ac071ab8ce5c.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to all kids conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/815296259091021824/ah00b9",
       "name": "Cat Beanie",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "clothes"
       ],
@@ -3222,13 +3103,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/78b3eccc6052.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to all kids conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/815115901545365504/gloomygeek2",
       "name": "Selene Hair",
-      "creator": "@gloomygeek",
+      "creator": "gloomygeek",
       "item": [
         "hair"
       ],
@@ -3243,13 +3124,12 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/2c57b68f7fb1.png",
-      "creator_url": "",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/815115901545365504/gloomygeek2",
       "name": "Solene Hair",
-      "creator": "@gloomygeek",
+      "creator": "gloomygeek",
       "item": [
         "hair"
       ],
@@ -3264,13 +3144,12 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/55fd1bc4b205.png",
-      "creator_url": "",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/815115901545365504/gloomygeek2",
       "name": "Shayah Hair",
-      "creator": "@gloomygeek",
+      "creator": "gloomygeek",
       "item": [
         "hair"
       ],
@@ -3285,13 +3164,12 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/14d611a0d522.png",
-      "creator_url": "",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/815115901545365504/gloomygeek2",
       "name": "Tabi Hair",
-      "creator": "@gloomygeek",
+      "creator": "gloomygeek",
       "item": [
         "hair"
       ],
@@ -3305,7 +3183,6 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/cb438c081e0e.png",
-      "creator_url": "",
       "description": "adult to child conv."
     },
     {
@@ -3330,7 +3207,7 @@
     {
       "download": "https://www.tumblr.com/sleepyz-sims/814943747559374848/gloomygeek",
       "name": "Gia Hair",
-      "creator": "@gloomygeek",
+      "creator": "gloomygeek",
       "item": [
         "hair"
       ],
@@ -3345,13 +3222,12 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/351c89a3dbb2.png",
-      "creator_url": "",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/814943747559374848/gloomygeek",
       "name": "Rinne Hair",
-      "creator": "@gloomygeek",
+      "creator": "gloomygeek",
       "item": [
         "hair"
       ],
@@ -3365,13 +3241,12 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/eb106432b755.png",
-      "creator_url": "",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/814785020001681408/clothes",
       "name": "Superstar Jeans",
-      "creator": "@trillyke",
+      "creator": "trillyke",
       "item": [
         "clothes"
       ],
@@ -3383,7 +3258,7 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/6c9a441d2566.png",
-      "creator_url": "",
+      "creator_url": "https://trillyke.tumblr.com",
       "description": "adult to child conv."
     },
     {
@@ -3399,13 +3274,14 @@
         "conversion"
       ],
       "description": "adult to child conv.",
-      "creator": "madlen",
-      "download": "https://www.tumblr.com/sleepyz-sims/814785020001681408/clothes"
+      "creator": "madlensims",
+      "download": "https://www.tumblr.com/sleepyz-sims/814785020001681408/clothes",
+      "creator_url": "https://madlensims.tumblr.com"
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/814785020001681408/clothes",
       "name": "Wednesday Dress",
-      "creator": "@madlen",
+      "creator": "madlensims",
       "item": [
         "clothes"
       ],
@@ -3418,13 +3294,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/b82df2d52630.png",
-      "creator_url": "",
+      "creator_url": "https://madlensims.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/814751365195808768/daylifesims4",
       "name": "Alicia Hairs",
-      "creator": "@daylifesims",
+      "creator": "daylifesims",
       "item": [
         "hair"
       ],
@@ -3439,13 +3315,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/f50c2a01e28a.png",
-      "creator_url": "",
+      "creator_url": "https://daylifesims.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/814751365195808768/daylifesims4",
       "name": "Alissa Hairs",
-      "creator": "@daylifesims",
+      "creator": "daylifesims",
       "item": [
         "hair"
       ],
@@ -3461,13 +3337,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/c7af4b5b8646.png",
-      "creator_url": "",
+      "creator_url": "https://daylifesims.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/814751365195808768/daylifesims4",
       "name": "Alysea Hairs",
-      "creator": "@daylifesims",
+      "creator": "daylifesims",
       "item": [
         "hair"
       ],
@@ -3483,13 +3359,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/0dd33b3fbb00.png",
-      "creator_url": "",
+      "creator_url": "https://daylifesims.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/814751365195808768/daylifesims4",
       "name": "Janey Hairs",
-      "creator": "@daylifesims",
+      "creator": "daylifesims",
       "item": [
         "hair"
       ],
@@ -3505,13 +3381,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/8d61725c0db4.png",
-      "creator_url": "",
+      "creator_url": "https://daylifesims.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/814751365195808768/daylifesims4",
       "name": "Tobi Hairs",
-      "creator": "@daylifesims",
+      "creator": "daylifesims",
       "item": [
         "hair"
       ],
@@ -3526,13 +3402,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/a7e78eb283c9.png",
-      "creator_url": "",
+      "creator_url": "https://daylifesims.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/814425818563493888/annabeth-mariposa",
       "name": "Mariposa Hair",
-      "creator": "@thatsims4hore",
+      "creator": "thatsims4hore",
       "item": [
         "hair"
       ],
@@ -3548,13 +3424,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/d54fd91bdf01.png",
-      "creator_url": "",
+      "creator_url": "https://thatsims4hore.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/814425818563493888/annabeth-mariposa",
       "name": "Annabeth Hair",
-      "creator": "@orchiona",
+      "creator": "orchiona",
       "item": [
         "hair"
       ],
@@ -3569,73 +3445,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/e04ed3666fa2.png",
-      "creator_url": "",
+      "creator_url": "https://orchiona.tumblr.com",
       "description": "adult to child conv."
-    },
-    {
-      "download": "https://www.tumblr.com/sleepyz-sims/814295941651775488/ah00b8",
-      "name": "Troy Hair",
-      "creator": "@aharris00britney",
-      "item": [
-        "hair"
-      ],
-      "ages": [
-        "toddler"
-      ],
-      "hair_type": [
-        "straight"
-      ],
-      "types": [
-        "conversion"
-      ],
-      "image": "https://cdn.imgchest.com/files/6b4d915ca928.png",
-      "creator_url": "",
-      "description": "adult to toddler conv."
-    },
-    {
-      "download": "https://www.tumblr.com/sleepyz-sims/814295941651775488/ah00b8",
-      "name": "Ghost Hair",
-      "creator": "@aharris00britney",
-      "item": [
-        "hair"
-      ],
-      "ages": [
-        "toddler"
-      ],
-      "hair_type": [
-        "straight"
-      ],
-      "types": [
-        "conversion"
-      ],
-      "image": "https://cdn.imgchest.com/files/b8807e363c6e.png",
-      "creator_url": "",
-      "description": "adult to toddler conv."
-    },
-    {
-      "download": "https://www.tumblr.com/sleepyz-sims/814295941651775488/ah00b8",
-      "name": "Grayson Hair",
-      "creator": "@aharris00britney",
-      "item": [
-        "hair"
-      ],
-      "ages": [
-        "toddler"
-      ],
-      "hair_type": [
-        "straight"
-      ],
-      "types": [
-        "conversion"
-      ],
-      "image": "https://cdn.imgchest.com/files/15d1d49b660e.png",
-      "creator_url": "",
-      "description": "adult to toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/813924531844628480/angel",
       "name": "Angel Shoes",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "shoes"
       ],
@@ -3648,13 +3464,31 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/73b01ad51a72.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child/toddler conv."
+    },
+    {
+      "download": "https://www.tumblr.com/sleepyz-sims/821098231240982528/clothes2",
+      "name": "Angel Shoes",
+      "creator": "aharris00britney",
+      "item": [
+        "shoes"
+      ],
+      "ages": [
+        "infant"
+      ],
+      "hair_type": [],
+      "types": [
+        "conversion"
+      ],
+      "image": "https://cdn.imgchest.com/files/c87fca906569.png",
+      "creator_url": "https://aharris00britney.tumblr.com",
+      "description": "adult to infant conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/813566729718497280/ah00b8",
       "name": "Fae Hair (Ponytails)",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -3669,13 +3503,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/915a43cc667b.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/813566729718497280/ah00b8",
       "name": "Karma Hair",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -3689,13 +3523,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/9ff3ddb887a9.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/813277964096651264/johnnysims2",
       "name": "Eustacio Hair",
-      "creator": "@johnnysimmer",
+      "creator": "johnnysimmer",
       "item": [
         "hair"
       ],
@@ -3710,13 +3544,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/db31f20ccc72.png",
-      "creator_url": "",
+      "creator_url": "https://johnnysimmer.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/813277964096651264/johnnysims2",
       "name": "Marcell Hair",
-      "creator": "@johnnysimmer",
+      "creator": "johnnysimmer",
       "item": [
         "hair"
       ],
@@ -3732,13 +3566,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/ecf0341cb3e0.png",
-      "creator_url": "",
+      "creator_url": "https://johnnysimmer.tumblr.com",
       "description": "adult to kids conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/813277964096651264/johnnysims2",
       "name": "Barry Hair",
-      "creator": "@johnnysimmer",
+      "creator": "johnnysimmer",
       "item": [
         "hair"
       ],
@@ -3754,13 +3588,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/7581c6035055.png",
-      "creator_url": "",
+      "creator_url": "https://johnnysimmer.tumblr.com",
       "description": "adult to kids conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/813036700019359744/serena",
       "name": "Serena Hair V3",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -3775,13 +3609,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/c50c41fe3d91.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to infant conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/812679044691853312/trillyke",
       "name": "Adrenaline Pants",
-      "creator": "@trillyke",
+      "creator": "trillyke",
       "item": [
         "clothes"
       ],
@@ -3793,13 +3627,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/d5f6085dcd7a.png",
-      "creator_url": "",
+      "creator_url": "https://trillyke.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/812679044691853312/trillyke",
       "name": "Winter Sleep Boots",
-      "creator": "@trillyke",
+      "creator": "trillyke",
       "item": [
         "shoes"
       ],
@@ -3811,13 +3645,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/43892ffa658e.png",
-      "creator_url": "",
+      "creator_url": "https://trillyke.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/812679044691853312/trillyke",
       "name": "Enigma Sneakers",
-      "creator": "@trillyke",
+      "creator": "trillyke",
       "item": [
         "shoes"
       ],
@@ -3830,7 +3664,7 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/c12ba1183781.png",
-      "creator_url": "",
+      "creator_url": "https://trillyke.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
@@ -3853,7 +3687,7 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/69f7978fd1a8.png",
-      "creator_url": "",
+      "creator_url": "https://aladdin-the-simmer.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
@@ -3875,13 +3709,12 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/14aa8931b550.png",
-      "creator_url": "",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/811212724334968832/conv1",
       "name": "Lulu Hair",
-      "creator": "@non-sims-4",
+      "creator": "non-sims-4",
       "item": [
         "hair"
       ],
@@ -3897,13 +3730,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/12a7a9a5052d.png",
-      "creator_url": "",
+      "creator_url": "https://non-sims-4.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/810944624397058048/simstrouble1",
       "name": "Adeline Hair",
-      "creator": "@simstrouble",
+      "creator": "simstrouble",
       "item": [
         "hair"
       ],
@@ -3918,13 +3751,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/72384ebefab0.png",
-      "creator_url": "",
+      "creator_url": "https://simstrouble.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/810944624397058048/simstrouble1",
       "name": "Subira Hair",
-      "creator": "@simstrouble",
+      "creator": "simstrouble",
       "item": [
         "hair"
       ],
@@ -3939,13 +3772,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/6a98eb94a1ca.png",
-      "creator_url": "",
+      "creator_url": "https://simstrouble.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/810290728889663488/simandy2",
       "name": "Betty Hair",
-      "creator": "@simandy",
+      "creator": "simandy",
       "item": [
         "hair"
       ],
@@ -3959,13 +3792,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/38113e18e742.png",
-      "creator_url": "",
+      "creator_url": "https://simandy.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/810290728889663488/simandy2",
       "name": "Dulce Swirl Hair",
-      "creator": "@simandy",
+      "creator": "simandy",
       "item": [
         "hair"
       ],
@@ -3979,13 +3812,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/de892eea7182.png",
-      "creator_url": "",
+      "creator_url": "https://simandy.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/809740345980157952/alexei",
       "name": "Alexei Hairs",
-      "creator": "@johnnysimmer",
+      "creator": "johnnysimmer",
       "item": [
         "hair"
       ],
@@ -4000,13 +3833,33 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/f0ae5117af58.png",
-      "creator_url": "",
+      "creator_url": "https://johnnysimmer.tumblr.com",
       "description": "adult to child conv."
+    },
+    {
+      "download": "https://www.tumblr.com/sleepyz-sims/820997070493253632/johnnysims5",
+      "name": "Alexei Hairs",
+      "creator": "johnnysimmer",
+      "item": [
+        "hair"
+      ],
+      "ages": [
+        "toddler"
+      ],
+      "hair_type": [
+        "straight"
+      ],
+      "types": [
+        "conversion"
+      ],
+      "image": "https://cdn.imgchest.com/files/51840931f642.png",
+      "creator_url": "https://johnnysimmer.tumblr.com",
+      "description": "adult to toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/809059335284162560/ah00b7",
       "name": "Troy Hair",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -4020,35 +3873,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/3dfd31dea2b9.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to toddler conv."
     },
     {
-      "download": "https://www.tumblr.com/sleepyz-sims/809059335284162560/ah00b7",
-      "name": "Lilac Hair",
-      "creator": "@aharris00britney",
-      "item": [
-        "hair"
-      ],
-      "ages": [
-        "child"
-      ],
-      "hair_type": [
-        "curly/wavy",
-        "updo",
-        "braids/twists"
-      ],
-      "types": [
-        "conversion"
-      ],
-      "image": "https://cdn.imgchest.com/files/8dba5b807bd6.png",
-      "creator_url": "",
-      "description": "adult to toddler conv."
-    },
-    {
-      "download": "https://www.tumblr.com/sleepyz-sims/808780019642105856/ah00b7",
-      "name": "Phaedra Hair",
-      "creator": "@aharris00britney",
+      "download": "https://www.tumblr.com/sleepyz-sims/814295941651775488/ah00b8",
+      "name": "Troy Hair",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -4056,20 +3887,19 @@
         "toddler"
       ],
       "hair_type": [
-        "curly/wavy",
-        "updo"
+        "straight"
       ],
       "types": [
         "conversion"
       ],
-      "image": "https://cdn.imgchest.com/files/7fd8a99b91a0.png",
-      "creator_url": "",
+      "image": "https://cdn.imgchest.com/files/6b4d915ca928.png",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/808780019642105856/ah00b7",
       "name": "Sadie Hair",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -4085,13 +3915,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/f0878e98c7cc.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/808780019642105856/ah00b7",
       "name": "Beth Hair",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -4107,35 +3937,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/6ab7ab56d84a.png",
-      "creator_url": "",
-      "description": "adult to child conv."
-    },
-    {
-      "download": "https://www.tumblr.com/sleepyz-sims/808559333612961792/ah00b-hair-conversions",
-      "name": "Isaiah Hair",
-      "creator": "@aharris00britney",
-      "item": [
-        "hair"
-      ],
-      "ages": [
-        "child"
-      ],
-      "hair_type": [
-        "curly/wavy",
-        "updo",
-        "braids/twists"
-      ],
-      "types": [
-        "conversion"
-      ],
-      "image": "https://cdn.imgchest.com/files/6938a9c8a644.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/808559333612961792/ah00b-hair-conversions",
       "name": "Alani Hair",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -4149,13 +3957,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/9a6a516aa330.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/808559333612961792/ah00b-hair-conversions",
       "name": "Bia Braids",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -4170,13 +3978,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/9455699b31fa.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/808449500660350976/ah00b6",
       "name": "Ghost Hair",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -4190,13 +3998,33 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/79c7b40b0db8.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child conv."
+    },
+    {
+      "download": "https://www.tumblr.com/sleepyz-sims/814295941651775488/ah00b8",
+      "name": "Ghost Hair",
+      "creator": "aharris00britney",
+      "item": [
+        "hair"
+      ],
+      "ages": [
+        "toddler"
+      ],
+      "hair_type": [
+        "straight"
+      ],
+      "types": [
+        "conversion"
+      ],
+      "image": "https://cdn.imgchest.com/files/b8807e363c6e.png",
+      "creator_url": "https://aharris00britney.tumblr.com",
+      "description": "adult to toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/808449500660350976/ah00b6",
       "name": "Grayson Hair",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -4210,13 +4038,33 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/7a2c699bd5f1.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child conv."
+    },
+    {
+      "download": "https://www.tumblr.com/sleepyz-sims/814295941651775488/ah00b8",
+      "name": "Grayson Hair",
+      "creator": "aharris00britney",
+      "item": [
+        "hair"
+      ],
+      "ages": [
+        "toddler"
+      ],
+      "hair_type": [
+        "straight"
+      ],
+      "types": [
+        "conversion"
+      ],
+      "image": "https://cdn.imgchest.com/files/15d1d49b660e.png",
+      "creator_url": "https://aharris00britney.tumblr.com",
+      "description": "adult to toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/808449500660350976/ah00b6",
       "name": "Hazel Hair",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -4230,13 +4078,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/95a75411bcfc.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/808449500660350976/ah00b6",
       "name": "Tara Hair",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -4250,13 +4098,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/716c1e41364e.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/807571365234376704/ah00b5",
       "name": "Jaylen Hair",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -4271,13 +4119,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/ea1dfa89d16b.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/807571365234376704/ah00b5",
       "name": "Kacey Hair",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -4291,13 +4139,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/605f2cc44d77.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/807388568289001472/rosie",
       "name": "Rosie Hair",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -4313,13 +4161,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/dfcd5f4e01f2.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/807243244440371200/oakiyo2",
       "name": "Lilly Hair",
-      "creator": "@oakiyo",
+      "creator": "oakiyo",
       "item": [
         "hair"
       ],
@@ -4333,13 +4181,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/b3bd37a9639d.png",
-      "creator_url": "",
+      "creator_url": "https://oakiyo.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/807243244440371200/oakiyo2",
       "name": "Isabella Hair",
-      "creator": "@oakiyo",
+      "creator": "oakiyo",
       "item": [
         "hair"
       ],
@@ -4353,13 +4201,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/c2e982ea6279.png",
-      "creator_url": "",
+      "creator_url": "https://oakiyo.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/807243244440371200/oakiyo2",
       "name": "Clara Hair",
-      "creator": "@oakiyo",
+      "creator": "oakiyo",
       "item": [
         "hair"
       ],
@@ -4373,13 +4221,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/8341bf3cdcb4.png",
-      "creator_url": "",
+      "creator_url": "https://oakiyo.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/807243244440371200/oakiyo2",
       "name": "Shannon Hair",
-      "creator": "@oakiyo",
+      "creator": "oakiyo",
       "item": [
         "hair"
       ],
@@ -4393,13 +4241,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/f6385650e753.png",
-      "creator_url": "",
+      "creator_url": "https://oakiyo.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/806956267775115264/orchiona1",
       "name": "Talia Hair",
-      "creator": "@orchiona",
+      "creator": "orchiona",
       "item": [
         "hair"
       ],
@@ -4414,13 +4262,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/dc52b0897470.png",
-      "creator_url": "",
+      "creator_url": "https://orchiona.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/806956267775115264/orchiona1",
       "name": "Malaysia Hair",
-      "creator": "@orchiona",
+      "creator": "orchiona",
       "item": [
         "hair"
       ],
@@ -4435,13 +4283,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/baea853d9819.png",
-      "creator_url": "",
+      "creator_url": "https://orchiona.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/806956267775115264/orchiona1",
       "name": "Jasmine Hair",
-      "creator": "@orchiona",
+      "creator": "orchiona",
       "item": [
         "hair"
       ],
@@ -4456,13 +4304,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/320333eeac07.png",
-      "creator_url": "",
+      "creator_url": "https://orchiona.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/806956267775115264/orchiona1",
       "name": "Halle Hair",
-      "creator": "@orchiona",
+      "creator": "orchiona",
       "item": [
         "hair"
       ],
@@ -4478,13 +4326,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/c32c5f9cb0b6.png",
-      "creator_url": "",
+      "creator_url": "https://orchiona.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/806956267775115264/orchiona1",
       "name": "Destiny Hair",
-      "creator": "@orchiona",
+      "creator": "orchiona",
       "item": [
         "hair"
       ],
@@ -4499,13 +4347,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/0bfbee443f85.png",
-      "creator_url": "",
+      "creator_url": "https://orchiona.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/806703632198270976/kaycreame1",
       "name": "Dahlia Hair",
-      "creator": "@kaycreame",
+      "creator": "kaycreame",
       "item": [
         "hair"
       ],
@@ -4521,13 +4369,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/605d152e9d49.png",
-      "creator_url": "",
+      "creator_url": "https://kaycreame.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/806703632198270976/kaycreame1",
       "name": "Ren Hair",
-      "creator": "@kaycreame",
+      "creator": "kaycreame",
       "item": [
         "hair"
       ],
@@ -4542,13 +4390,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/3999bc34ba49.png",
-      "creator_url": "",
+      "creator_url": "https://kaycreame.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/806703632198270976/kaycreame1",
       "name": "Kikyo Hair",
-      "creator": "@kaycreame",
+      "creator": "kaycreame",
       "item": [
         "hair"
       ],
@@ -4564,13 +4412,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/bb52c0d08c59.png",
-      "creator_url": "",
+      "creator_url": "https://kaycreame.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/806498303254659072/cory",
       "name": "Cory Hair",
-      "creator": "@simstrouble",
+      "creator": "simstrouble",
       "item": [
         "hair"
       ],
@@ -4585,13 +4433,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/fcec7a7eadf5.png",
-      "creator_url": "",
+      "creator_url": "https://simstrouble.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/806196366879670272/johnnysims1",
       "name": "Maurice Hair",
-      "creator": "@Johnnysimmer",
+      "creator": "johnnysimmer",
       "item": [
         "hair"
       ],
@@ -4605,13 +4453,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/4289ff862c97.png",
-      "creator_url": "",
+      "creator_url": "https://johnnysimmer.tumblr.com",
       "description": "adult to toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/806196366879670272/johnnysims1",
       "name": "Erydian Hair",
-      "creator": "@Johnnysimmer",
+      "creator": "johnnysimmer",
       "item": [
         "hair"
       ],
@@ -4625,13 +4473,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/0cf51c3692ab.png",
-      "creator_url": "",
+      "creator_url": "https://johnnysimmer.tumblr.com",
       "description": "adult to toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/805963536071294976/sc002",
       "name": "Kim Hairs",
-      "creator": "@simcelebrity00",
+      "creator": "simcelebrity00",
       "item": [
         "hair"
       ],
@@ -4646,13 +4494,34 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/339049f5fda7.png",
-      "creator_url": "",
+      "creator_url": "https://simcelebrity00.tumblr.com",
       "description": "adult to child conv."
+    },
+    {
+      "download": "https://www.tumblr.com/sleepyz-sims/826343831301767168/sc003",
+      "name": "Kim Hairs",
+      "creator": "simcelebrity00",
+      "item": [
+        "hair"
+      ],
+      "ages": [
+        "toddler"
+      ],
+      "hair_type": [
+        "straight",
+        "updo"
+      ],
+      "types": [
+        "conversion"
+      ],
+      "image": "https://cdn.imgchest.com/files/1b3b38076469.png",
+      "creator_url": "https://simcelebrity00.tumblr.com",
+      "description": "adult to toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/805963536071294976/sc002",
       "name": "Sage Hair",
-      "creator": "@simcelebrity00",
+      "creator": "simcelebrity00",
       "item": [
         "hair"
       ],
@@ -4667,13 +4536,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/24cbc9d755af.png",
-      "creator_url": "",
+      "creator_url": "https://simcelebrity00.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/805766317088063488/daylifesims3",
       "name": "Lagoona Hair",
-      "creator": "@daylifesims",
+      "creator": "daylifesims",
       "item": [
         "hair"
       ],
@@ -4687,13 +4556,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/c7309cfac4de.png",
-      "creator_url": "",
+      "creator_url": "https://daylifesims.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/805766317088063488/daylifesims3",
       "name": "Howleen Hair",
-      "creator": "@daylifesims",
+      "creator": "daylifesims",
       "item": [
         "hair"
       ],
@@ -4708,13 +4577,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/01742bee6723.png",
-      "creator_url": "",
+      "creator_url": "https://daylifesims.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/805465765836947456/sc00-conv",
       "name": "Scout Hair",
-      "creator": "@simcelebrity00",
+      "creator": "simcelebrity00",
       "item": [
         "hair"
       ],
@@ -4728,13 +4597,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/779a06d6fd4c.png",
-      "creator_url": "",
+      "creator_url": "https://simcelebrity00.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/805465765836947456/sc00-conv",
       "name": "Mosco Hair",
-      "creator": "@simcelebrity00",
+      "creator": "simcelebrity00",
       "item": [
         "hair"
       ],
@@ -4748,13 +4617,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/ba11754269fe.png",
-      "creator_url": "",
+      "creator_url": "https://simcelebrity00.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/805465765836947456/sc00-conv",
       "name": "Rango Hair",
-      "creator": "@simcelebrity00",
+      "creator": "simcelebrity00",
       "item": [
         "hair"
       ],
@@ -4768,13 +4637,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/f187d16dd45e.png",
-      "creator_url": "",
+      "creator_url": "https://simcelebrity00.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/805465765836947456/sc00-conv",
       "name": "Bruno Hair",
-      "creator": "@simcelebrity00",
+      "creator": "simcelebrity00",
       "item": [
         "hair"
       ],
@@ -4788,13 +4657,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/4b91b523f011.png",
-      "creator_url": "",
+      "creator_url": "https://simcelebrity00.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/805465765836947456/sc00-conv",
       "name": "Margaret Hair",
-      "creator": "@simcelebrity00",
+      "creator": "simcelebrity00",
       "item": [
         "hair"
       ],
@@ -4808,13 +4677,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/8c00a743da37.png",
-      "creator_url": "",
+      "creator_url": "https://simcelebrity00.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/805336017421877248/renato",
       "name": "Renato Hair",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -4829,13 +4698,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/ab0890971e33.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/805233431610032128/twistedcat-conv",
       "name": "Alena Hair",
-      "creator": "@twistedcat",
+      "creator": "twisted-cat",
       "item": [
         "hair"
       ],
@@ -4850,13 +4719,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/d2ff09f4b5da.png",
-      "creator_url": "",
+      "creator_url": "https://twisted-cat.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/805233431610032128/twistedcat-conv",
       "name": "Lulie Hair",
-      "creator": "@twistedcat",
+      "creator": "twisted-cat",
       "item": [
         "hair"
       ],
@@ -4872,13 +4741,34 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/42f58c170342.png",
-      "creator_url": "",
+      "creator_url": "https://twisted-cat.tumblr.com",
       "description": "adult to child/toddler conv."
+    },
+    {
+      "download": "https://www.tumblr.com/sleepyz-sims/819537490066210816/twistedcat1",
+      "name": "Lulie Hair",
+      "creator": "twisted-cat",
+      "item": [
+        "hair"
+      ],
+      "ages": [
+        "infant"
+      ],
+      "hair_type": [
+        "straight",
+        "updo"
+      ],
+      "types": [
+        "conversion"
+      ],
+      "image": "https://cdn.imgchest.com/files/4d271fe4387f.png",
+      "creator_url": "https://twisted-cat.tumblr.com",
+      "description": "adult to infant conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/805233431610032128/twistedcat-conv",
       "name": "Marisol Hair",
-      "creator": "@twistedcat",
+      "creator": "twisted-cat",
       "item": [
         "hair"
       ],
@@ -4894,13 +4784,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/4f14125ee925.png",
-      "creator_url": "",
+      "creator_url": "https://twisted-cat.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/805057752461377536/ah00b-conversions-pt4",
       "name": "Phaedra Hair",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -4915,13 +4805,34 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/e47d5a1c78f5.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child conv."
+    },
+    {
+      "download": "https://www.tumblr.com/sleepyz-sims/808780019642105856/ah00b7",
+      "name": "Phaedra Hair",
+      "creator": "aharris00britney",
+      "item": [
+        "hair"
+      ],
+      "ages": [
+        "toddler"
+      ],
+      "hair_type": [
+        "curly/wavy",
+        "updo"
+      ],
+      "types": [
+        "conversion"
+      ],
+      "image": "https://cdn.imgchest.com/files/7fd8a99b91a0.png",
+      "creator_url": "https://aharris00britney.tumblr.com",
+      "description": "adult to toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/805057752461377536/ah00b-conversions-pt4",
       "name": "Eden Hairs",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -4935,13 +4846,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/740d44bc3382.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/804603421397270528/dogsill-conversions2",
       "name": "Hailey Hair",
-      "creator": "@dogsill",
+      "creator": "dogsill",
       "item": [
         "hair"
       ],
@@ -4956,13 +4867,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/cc766563abba.png",
-      "creator_url": "",
+      "creator_url": "https://dogsill.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/804603421397270528/dogsill-conversions2",
       "name": "Lilibeth Hair",
-      "creator": "@dogsill",
+      "creator": "dogsill",
       "item": [
         "hair"
       ],
@@ -4976,13 +4887,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/3ba035549368.png",
-      "creator_url": "",
+      "creator_url": "https://dogsill.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/803408902737788928/raya",
       "name": "Raya Hair",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -4996,13 +4907,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/94a0bb1b3e0f.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/803049596179890176/imvikai-conversions5",
       "name": "Lana Hair",
-      "creator": "@imvikai",
+      "creator": "imvikai",
       "item": [
         "hair"
       ],
@@ -5016,13 +4927,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/5c4133d87a67.png",
-      "creator_url": "",
+      "creator_url": "https://imvikai.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/803049596179890176/imvikai-conversions5",
       "name": "Celeste Hair",
-      "creator": "@imvikai",
+      "creator": "imvikai",
       "item": [
         "hair"
       ],
@@ -5036,13 +4947,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/60cecf0575f6.png",
-      "creator_url": "",
+      "creator_url": "https://imvikai.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/803049596179890176/imvikai-conversions5",
       "name": "Sleek Puff Hair",
-      "creator": "@imvikai",
+      "creator": "imvikai",
       "item": [
         "hair"
       ],
@@ -5057,13 +4968,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/499a039811d0.png",
-      "creator_url": "",
+      "creator_url": "https://imvikai.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/802787410893225984/dianamimori",
       "name": "Diana Hair",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -5078,13 +4989,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/8033511173e3.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/802787410893225984/dianamimori",
       "name": "Mimori Hair",
-      "creator": "@simandy",
+      "creator": "simandy",
       "item": [
         "hair"
       ],
@@ -5098,13 +5009,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/f0231c8fbd05.png",
-      "creator_url": "",
+      "creator_url": "https://simandy.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/802667142108626944/imvikai-conversions4",
       "name": "Ruta Hair",
-      "creator": "@imvikai",
+      "creator": "imvikai",
       "item": [
         "hair"
       ],
@@ -5119,13 +5030,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/05ef15dc705b.png",
-      "creator_url": "",
+      "creator_url": "https://imvikai.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/802667142108626944/imvikai-conversions4",
       "name": "Melissa Hair",
-      "creator": "@imvikai",
+      "creator": "imvikai",
       "item": [
         "hair"
       ],
@@ -5139,13 +5050,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/1e11cd0799d3.png",
-      "creator_url": "",
+      "creator_url": "https://imvikai.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/802667142108626944/imvikai-conversions4",
       "name": "Claire Hair",
-      "creator": "@imvikai",
+      "creator": "imvikai",
       "item": [
         "hair"
       ],
@@ -5159,13 +5070,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/c439f825466f.png",
-      "creator_url": "",
+      "creator_url": "https://imvikai.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/802219214818656257/imvikai-conversions3",
       "name": "Bethany Hair",
-      "creator": "@imvikai",
+      "creator": "imvikai",
       "item": [
         "hair"
       ],
@@ -5181,13 +5092,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/6ac0f0062f50.png",
-      "creator_url": "",
+      "creator_url": "https://imvikai.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/802219214818656257/imvikai-conversions3",
       "name": "Eleonora Hair",
-      "creator": "@imvikai",
+      "creator": "imvikai",
       "item": [
         "hair"
       ],
@@ -5203,13 +5114,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/a39b2b04cf2f.png",
-      "creator_url": "",
+      "creator_url": "https://imvikai.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/802219214818656257/imvikai-conversions3",
       "name": "Julie Hair",
-      "creator": "@imvikai",
+      "creator": "imvikai",
       "item": [
         "hair"
       ],
@@ -5225,13 +5136,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/ab1096cd8616.png",
-      "creator_url": "",
+      "creator_url": "https://imvikai.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/800577270167322624/ah00b-conversions-pt3",
       "name": "Jinx Hair",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -5246,13 +5157,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/b0b81bcb40e6.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/800577270167322624/ah00b-conversions-pt3",
       "name": "Phoebe Hair",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -5267,13 +5178,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/be3f5f563b82.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/800577270167322624/ah00b-conversions-pt3",
       "name": "Psylocke Hair",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -5287,13 +5198,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/b527516ef224.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/799497162377527296/ah00b-conversions-pt2",
       "name": "Tanner Hair",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -5307,13 +5218,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/11c58b1071b7.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/799497162377527296/ah00b-conversions-pt2",
       "name": "Elio Hair",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -5327,13 +5238,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/85b429a10f5b.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/799497162377527296/ah00b-conversions-pt2",
       "name": "Isaiah Hair",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -5349,13 +5260,35 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/031da67d97ba.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
+      "description": "adult to child conv."
+    },
+    {
+      "download": "https://www.tumblr.com/sleepyz-sims/808559333612961792/ah00b-hair-conversions",
+      "name": "Isaiah Hair",
+      "creator": "aharris00britney",
+      "item": [
+        "hair"
+      ],
+      "ages": [
+        "child"
+      ],
+      "hair_type": [
+        "curly/wavy",
+        "updo",
+        "braids/twists"
+      ],
+      "types": [
+        "conversion"
+      ],
+      "image": "https://cdn.imgchest.com/files/6938a9c8a644.png",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/799421636535320576/aaron",
       "name": "Aaron Hair",
-      "creator": "@dogsill",
+      "creator": "dogsill",
       "item": [
         "hair"
       ],
@@ -5369,13 +5302,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/35697aa08117.png",
-      "creator_url": "",
+      "creator_url": "https://dogsill.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/799353271437459456/daylifesims-conversions-pt2",
       "name": "Lilac Hair",
-      "creator": "@daylifesims",
+      "creator": "daylifesims",
       "item": [
         "hair"
       ],
@@ -5389,13 +5322,35 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/59fc74453959.png",
-      "creator_url": "",
+      "creator_url": "https://daylifesims.tumblr.com",
       "description": "adult to child conv."
+    },
+    {
+      "download": "https://www.tumblr.com/sleepyz-sims/809059335284162560/ah00b7",
+      "name": "Lilac Hair",
+      "creator": "aharris00britney",
+      "item": [
+        "hair"
+      ],
+      "ages": [
+        "child"
+      ],
+      "hair_type": [
+        "curly/wavy",
+        "updo",
+        "braids/twists"
+      ],
+      "types": [
+        "conversion"
+      ],
+      "image": "https://cdn.imgchest.com/files/8dba5b807bd6.png",
+      "creator_url": "https://aharris00britney.tumblr.com",
+      "description": "adult to toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/799353271437459456/daylifesims-conversions-pt2",
       "name": "Des Hair",
-      "creator": "@daylifesims",
+      "creator": "daylifesims",
       "item": [
         "hair"
       ],
@@ -5409,13 +5364,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/d2c6734946fc.png",
-      "creator_url": "",
+      "creator_url": "https://daylifesims.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/799025081359663104/daylifesims-conversions",
       "name": "Lionel Hair",
-      "creator": "@daylifesims",
+      "creator": "daylifesims",
       "item": [
         "hair"
       ],
@@ -5430,13 +5385,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/060387d5cb9c.png",
-      "creator_url": "",
+      "creator_url": "https://daylifesims.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/799025081359663104/daylifesims-conversions",
       "name": "Gavin Hair",
-      "creator": "@daylifesims",
+      "creator": "daylifesims",
       "item": [
         "hair"
       ],
@@ -5452,13 +5407,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/a74355ef846f.png",
-      "creator_url": "",
+      "creator_url": "https://daylifesims.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/797521877684944896/darell",
       "name": "Darell Hair",
-      "creator": "@daylifesims",
+      "creator": "daylifesims",
       "item": [
         "hair"
       ],
@@ -5472,13 +5427,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/71c657fe6a04.png",
-      "creator_url": "",
+      "creator_url": "https://daylifesims.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/796251537087332352/simcelebrity00-conversions",
       "name": "Quirky Hair",
-      "creator": "@simcelebrity00",
+      "creator": "simcelebrity00",
       "item": [
         "hair"
       ],
@@ -5493,13 +5448,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/0e54cf9e86f6.png",
-      "creator_url": "",
+      "creator_url": "https://simcelebrity00.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/796251537087332352/simcelebrity00-conversions",
       "name": "Carrie Hair",
-      "creator": "@simcelebrity00",
+      "creator": "simcelebrity00",
       "item": [
         "hair"
       ],
@@ -5513,13 +5468,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/d8e65382937a.png",
-      "creator_url": "",
+      "creator_url": "https://simcelebrity00.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/796251537087332352/simcelebrity00-conversions",
       "name": "Cindy Hair",
-      "creator": "@simcelebrity00",
+      "creator": "simcelebrity00",
       "item": [
         "hair"
       ],
@@ -5534,13 +5489,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/0e1d54fed35c.png",
-      "creator_url": "",
+      "creator_url": "https://simcelebrity00.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/796251537087332352/simcelebrity00-conversions",
       "name": "Chappell Hair",
-      "creator": "@simcelebrity00",
+      "creator": "simcelebrity00",
       "item": [
         "hair"
       ],
@@ -5554,13 +5509,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/9e013ee6c11d.png",
-      "creator_url": "",
+      "creator_url": "https://simcelebrity00.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/796251537087332352/simcelebrity00-conversions",
       "name": "Freya Hair",
-      "creator": "@simcelebrity00",
+      "creator": "simcelebrity00",
       "item": [
         "hair"
       ],
@@ -5575,13 +5530,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/fe37bbe1f58e.png",
-      "creator_url": "",
+      "creator_url": "https://simcelebrity00.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/795454790619594752/lux-hair",
       "name": "Lux Hair",
-      "creator": "@simandy",
+      "creator": "simandy",
       "item": [
         "hair"
       ],
@@ -5595,13 +5550,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/a2e65c148c1c.png",
-      "creator_url": "",
+      "creator_url": "https://simandy.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/795180142411628544/lane-hair",
       "name": "Lane Hair",
-      "creator": "@imvikai",
+      "creator": "imvikai",
       "item": [
         "hair"
       ],
@@ -5616,13 +5571,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/752500e1d7b3.png",
-      "creator_url": "",
+      "creator_url": "https://imvikai.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/794819101943087104/enriques4-conversions",
       "name": "Ayleen Hair",
-      "creator": "@EnriqueS4",
+      "creator": "enriques4",
       "item": [
         "hair"
       ],
@@ -5637,13 +5592,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/6745f7836c56.png",
-      "creator_url": "",
+      "creator_url": "https://enriques4.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/794819101943087104/enriques4-conversions",
       "name": "Mazzy Hair",
-      "creator": "@EnriqueS4",
+      "creator": "enriques4",
       "item": [
         "hair"
       ],
@@ -5658,13 +5613,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/d32af3137fe2.png",
-      "creator_url": "",
+      "creator_url": "https://enriques4.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/794819101943087104/enriques4-conversions",
       "name": "Elianna Hair",
-      "creator": "@EnriqueS4",
+      "creator": "enriques4",
       "item": [
         "hair"
       ],
@@ -5678,13 +5633,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/53bc7f142c86.png",
-      "creator_url": "",
+      "creator_url": "https://enriques4.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/794819101943087104/enriques4-conversions",
       "name": "Mira Hair",
-      "creator": "@EnriqueS4",
+      "creator": "enriques4",
       "item": [
         "hair"
       ],
@@ -5699,13 +5654,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/ca8e3637395c.png",
-      "creator_url": "",
+      "creator_url": "https://enriques4.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/794267007931514880/oakiyo-conversions",
       "name": "Zoey Hair",
-      "creator": "@oakiyo",
+      "creator": "oakiyo",
       "item": [
         "hair"
       ],
@@ -5719,13 +5674,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/6ecedd19571e.png",
-      "creator_url": "",
+      "creator_url": "https://oakiyo.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/794267007931514880/oakiyo-conversions",
       "name": "Stella Hair",
-      "creator": "@oakiyo",
+      "creator": "oakiyo",
       "item": [
         "hair"
       ],
@@ -5740,13 +5695,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/cb37b1876557.png",
-      "creator_url": "",
+      "creator_url": "https://oakiyo.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/794267007931514880/oakiyo-conversions",
       "name": "Cat Hair",
-      "creator": "@oakiyo",
+      "creator": "oakiyo",
       "item": [
         "hair"
       ],
@@ -5761,13 +5716,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/3f975ec38c87.png",
-      "creator_url": "",
+      "creator_url": "https://oakiyo.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/794161333786607616/ah00b-conversions",
       "name": "Kenna Hair",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -5781,13 +5736,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/38cd7f4ecff5.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/794161333786607616/ah00b-conversions",
       "name": "Lillia Hair",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -5802,13 +5757,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/50a72b6e33e4.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/793447053004062720/dogsill-conversions",
       "name": "Taliyah Pigtails",
-      "creator": "@dogsill",
+      "creator": "dogsill",
       "item": [
         "hair"
       ],
@@ -5823,13 +5778,35 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/7mmc9dgll87.png",
-      "creator_url": "",
+      "creator_url": "https://dogsill.tumblr.com",
       "description": "adult to child conv."
+    },
+    {
+      "download": "https://www.tumblr.com/sleepyz-sims/816844155080916992/dogsill3",
+      "name": "Taliyah Pigtails",
+      "creator": "dogsill",
+      "item": [
+        "hair"
+      ],
+      "ages": [
+        "toddler",
+        "infant"
+      ],
+      "hair_type": [
+        "straight",
+        "updo"
+      ],
+      "types": [
+        "conversion"
+      ],
+      "image": "https://cdn.imgchest.com/files/0f495856db7c.png",
+      "creator_url": "https://dogsill.tumblr.com",
+      "description": "adult to infant/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/793447053004062720/dogsill-conversions",
       "name": "Hania Braids",
-      "creator": "@dogsill",
+      "creator": "dogsill",
       "item": [
         "hair"
       ],
@@ -5844,13 +5821,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/739cx25oo37.png",
-      "creator_url": "",
+      "creator_url": "https://dogsill.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/793447053004062720/dogsill-conversions",
       "name": "Ocean Ponytails",
-      "creator": "@dogsill",
+      "creator": "dogsill",
       "item": [
         "hair"
       ],
@@ -5865,13 +5842,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/7w6c2anggvy.png",
-      "creator_url": "",
+      "creator_url": "https://dogsill.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/793447053004062720/dogsill-conversions",
       "name": "Holland Ponytail",
-      "creator": "@dogsill",
+      "creator": "dogsill",
       "item": [
         "hair"
       ],
@@ -5886,13 +5863,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/ye3c29ojjg4.png",
-      "creator_url": "",
+      "creator_url": "https://dogsill.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/793447053004062720/dogsill-conversions",
       "name": "Daisy Hair",
-      "creator": "@dogsill",
+      "creator": "dogsill",
       "item": [
         "hair"
       ],
@@ -5906,13 +5883,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/4z9cv63nnk7.png",
-      "creator_url": "",
+      "creator_url": "https://dogsill.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/793447053004062720/dogsill-conversions",
       "name": "Orla Pigtails",
-      "creator": "@dogsill",
+      "creator": "dogsill",
       "item": [
         "hair"
       ],
@@ -5927,13 +5904,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/y8xcnjgwwj4.png",
-      "creator_url": "",
+      "creator_url": "https://dogsill.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/793447053004062720/dogsill-conversions",
       "name": "Leigh Ponytail",
-      "creator": "@dogsill",
+      "creator": "dogsill",
       "item": [
         "hair"
       ],
@@ -5948,13 +5925,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/45xcvrmggl7.png",
-      "creator_url": "",
+      "creator_url": "https://dogsill.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/793447053004062720/dogsill-conversions",
       "name": "Flo Hair",
-      "creator": "@dogsill",
+      "creator": "dogsill",
       "item": [
         "hair"
       ],
@@ -5969,13 +5946,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/4apc5elkkr4.png",
-      "creator_url": "",
+      "creator_url": "https://dogsill.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/793447053004062720/dogsill-conversions",
       "name": "Brandy Hair",
-      "creator": "@dogsill",
+      "creator": "dogsill",
       "item": [
         "hair"
       ],
@@ -5989,13 +5966,33 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/46acq2v55x7.png",
-      "creator_url": "",
+      "creator_url": "https://dogsill.tumblr.com",
       "description": "adult to child conv."
+    },
+    {
+      "download": "https://www.tumblr.com/sleepyz-sims/824256554847125504/dogsill4",
+      "name": "Brandy Hair",
+      "creator": "dogsill",
+      "item": [
+        "hair"
+      ],
+      "ages": [
+        "toddler"
+      ],
+      "hair_type": [
+        "curly/wavy"
+      ],
+      "types": [
+        "conversion"
+      ],
+      "image": "https://cdn.imgchest.com/files/ff8fcf783485.png",
+      "creator_url": "https://dogsill.tumblr.com",
+      "description": "adult to toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/792186400565018624/togl-conversions",
       "name": "Paloma Hair",
-      "creator": "@thatonegreenleaf",
+      "creator": "thatonegreenleaf",
       "item": [
         "hair"
       ],
@@ -6009,13 +6006,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/yvdcwkb32wy.png",
-      "creator_url": "",
+      "creator_url": "https://thatonegreenleaf.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/792186400565018624/togl-conversions",
       "name": "Jade Hair V2",
-      "creator": "@thatonegreenleaf",
+      "creator": "thatonegreenleaf",
       "item": [
         "hair"
       ],
@@ -6029,13 +6026,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/4z9cvz8gpg7.png",
-      "creator_url": "",
+      "creator_url": "https://thatonegreenleaf.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/792186400565018624/togl-conversions",
       "name": "Jade Hair V1",
-      "creator": "@thatonegreenleaf",
+      "creator": "thatonegreenleaf",
       "item": [
         "hair"
       ],
@@ -6049,13 +6046,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/4gdcxjvgzq4.png",
-      "creator_url": "",
+      "creator_url": "https://thatonegreenleaf.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/792186400565018624/togl-conversions",
       "name": "Amir Hair",
-      "creator": "@thatonegreenleaf",
+      "creator": "thatonegreenleaf",
       "item": [
         "hair"
       ],
@@ -6070,13 +6067,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/49zc23gj8ay.png",
-      "creator_url": "",
+      "creator_url": "https://thatonegreenleaf.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/791791477477998592/clumsyalien-conversions",
       "name": "Camille Hair",
-      "creator": "@clumsyalien",
+      "creator": "clumsyalienn",
       "item": [
         "hair"
       ],
@@ -6090,13 +6087,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/yd5ceg28le4.png",
-      "creator_url": "",
+      "creator_url": "https://clumsyalienn.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/791791477477998592/clumsyalien-conversions",
       "name": "Megan Hair",
-      "creator": "@clumsyalien",
+      "creator": "clumsyalienn",
       "item": [
         "hair"
       ],
@@ -6112,13 +6109,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/yq9c32qwnk4.png",
-      "creator_url": "",
+      "creator_url": "https://clumsyalienn.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/791791477477998592/clumsyalien-conversions",
       "name": "Tiffany Hair",
-      "creator": "@clumsyalien",
+      "creator": "clumsyalienn",
       "item": [
         "hair"
       ],
@@ -6133,13 +6130,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/7mmc93xdjz7.png",
-      "creator_url": "",
+      "creator_url": "https://clumsyalienn.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/791544507678228480/imvikai-conversions2",
       "name": "Celine Hair",
-      "creator": "@imvikai",
+      "creator": "imvikai",
       "item": [
         "hair"
       ],
@@ -6153,13 +6150,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/4jdcv3e5j94.png",
-      "creator_url": "",
+      "creator_url": "https://imvikai.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/791544507678228480/imvikai-conversions2",
       "name": "Valentina Braids",
-      "creator": "@imvikai",
+      "creator": "imvikai",
       "item": [
         "hair"
       ],
@@ -6174,13 +6171,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/4nec8nqdmo4.png",
-      "creator_url": "",
+      "creator_url": "https://imvikai.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/791544507678228480/imvikai-conversions2",
       "name": "Zuri Curls",
-      "creator": "@imvikai",
+      "creator": "imvikai",
       "item": [
         "hair"
       ],
@@ -6196,13 +6193,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/46acq3pxbl7.png",
-      "creator_url": "",
+      "creator_url": "https://imvikai.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/791544507678228480/imvikai-conversions2",
       "name": "Mikan Hair",
-      "creator": "@imvikai",
+      "creator": "imvikai",
       "item": [
         "hair"
       ],
@@ -6217,13 +6214,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/7pjcqd2gwb7.png",
-      "creator_url": "",
+      "creator_url": "https://imvikai.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/791255556352622592/imvikai-conversions",
       "name": "Xolani Curls",
-      "creator": "@imvikai",
+      "creator": "imvikai",
       "item": [
         "hair"
       ],
@@ -6238,13 +6235,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/y8xcn2pk934.png",
-      "creator_url": "",
+      "creator_url": "https://imvikai.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/791255556352622592/imvikai-conversions",
       "name": "Mélodie Hair",
-      "creator": "@imvikai",
+      "creator": "imvikai",
       "item": [
         "hair"
       ],
@@ -6259,13 +6256,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/4apc5wb3no4.png",
-      "creator_url": "",
+      "creator_url": "https://imvikai.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/791255556352622592/imvikai-conversions",
       "name": "Giselle Hair",
-      "creator": "@imvikai",
+      "creator": "imvikai",
       "item": [
         "hair"
       ],
@@ -6280,13 +6277,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/4nec8n5m2q4.png",
-      "creator_url": "",
+      "creator_url": "https://imvikai.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/791238552133468160/wolverine",
       "name": "Wolverines Claw Fade",
-      "creator": "@hellagoodsims",
+      "creator": "hellagoodsims",
       "item": [
         "hair"
       ],
@@ -6302,13 +6299,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/yvdcwg6zqmy.png",
-      "creator_url": "",
+      "creator_url": "https://hellagoodsims.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/791177408457981952/sheabuttyr-hair-conversions",
       "name": "Hobie Hair",
-      "creator": "@sheabuttyr",
+      "creator": "sheabuttyr",
       "item": [
         "hair"
       ],
@@ -6323,13 +6320,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/49zc29owamy.png",
-      "creator_url": "",
+      "creator_url": "https://sheabuttyr.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/791177408457981952/sheabuttyr-hair-conversions",
       "name": "Penisha Ponytails",
-      "creator": "@sheabuttyr",
+      "creator": "sheabuttyr",
       "item": [
         "hair"
       ],
@@ -6344,13 +6341,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/4nec8nvkee4.png",
-      "creator_url": "",
+      "creator_url": "https://sheabuttyr.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/791062536258781184/saoirse-hair",
       "name": "Saoirse Hair",
-      "creator": "@imvikai",
+      "creator": "imvikai",
       "item": [
         "hair"
       ],
@@ -6364,13 +6361,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/7kzcaw5won7.png",
-      "creator_url": "",
+      "creator_url": "https://imvikai.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/787785474803695617/stacy-hair",
       "name": "Stacy Hair",
-      "creator": "@clumsyalienn",
+      "creator": "clumsyalienn",
       "item": [
         "hair"
       ],
@@ -6385,13 +6382,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/yvdcwdr3ngy.png",
-      "creator_url": "",
+      "creator_url": "https://clumsyalienn.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/785849879042932736/kalei-hair",
       "name": "Kalei Hair",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -6405,13 +6402,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/yd5cel92ro4.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/783954110285266944/camryn-hair",
       "name": "Camryn Hair",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -6425,13 +6422,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/yxkczd9ewj7.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://sleepyz-sims.tumblr.com/post/783067610792312832/ayaka-hair",
       "name": "Ayaka Hair",
-      "creator": "@aharris00britney",
+      "creator": "aharris00britney",
       "item": [
         "hair"
       ],
@@ -6447,13 +6444,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/7kzcag22xp7.png",
-      "creator_url": "",
+      "creator_url": "https://aharris00britney.tumblr.com",
       "description": "adult to all kids conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/782007576244174848/sidra?source=share",
       "name": "Sidra Hair",
-      "creator": "@simstrouble",
+      "creator": "simstrouble",
       "item": [
         "hair"
       ],
@@ -6467,13 +6464,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/4z9cvngp8d7.png",
-      "creator_url": "",
+      "creator_url": "https://simstrouble.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/776885225491922944/thatonegreenleaf-hair-conversions?source=share",
       "name": "Orin Hair",
-      "creator": "@thatonegreenleaf",
+      "creator": "thatonegreenleaf",
       "item": [
         "hair",
         "accessory"
@@ -6489,13 +6486,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/4apc5lr6px4.png",
-      "creator_url": "",
+      "creator_url": "https://thatonegreenleaf.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/776885225491922944/thatonegreenleaf-hair-conversions?source=share",
       "name": "Victyrr Hair",
-      "creator": "@thatonegreenleaf",
+      "creator": "thatonegreenleaf",
       "item": [
         "hair"
       ],
@@ -6511,13 +6508,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/7pjcqmlzd37.png",
-      "creator_url": "",
+      "creator_url": "https://thatonegreenleaf.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/776885225491922944/thatonegreenleaf-hair-conversions?source=share",
       "name": "Love Hair",
-      "creator": "@thatonegreenleaf",
+      "creator": "thatonegreenleaf",
       "item": [
         "hair"
       ],
@@ -6532,13 +6529,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/7kzca86dw67.png",
-      "creator_url": "",
+      "creator_url": "https://thatonegreenleaf.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/773859317686386688/claudia-hair?source=share",
       "name": "Claudia Hair",
-      "creator": "@thatonegreenleaf",
+      "creator": "thatonegreenleaf",
       "item": [
         "hair"
       ],
@@ -6552,13 +6549,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/7mmc9o3gkk7.png",
-      "creator_url": "",
+      "creator_url": "https://thatonegreenleaf.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/771358247359840256/cozyautumn?source=share",
       "name": "Cozy Autumn Collection",
-      "creator": "@simhelaene",
+      "creator": "simhelaene",
       "item": [
         "clothes"
       ],
@@ -6570,13 +6567,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/7ogcbbldljy.png",
-      "creator_url": "",
+      "creator_url": "https://simhelaene.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/770843515537260544/lauradress?source=share",
       "name": "Laura Jumper Dress",
-      "creator": "@oakiyo",
+      "creator": "oakiyo",
       "item": [
         "clothes"
       ],
@@ -6588,13 +6585,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/7mmc9ak6rz7.png",
-      "creator_url": "",
+      "creator_url": "https://oakiyo.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/766936665617006592/narcissahair?source=share",
       "name": "Narcissa Hair",
-      "creator": "@arethabee",
+      "creator": "arethabee",
       "item": [
         "hair"
       ],
@@ -6609,13 +6606,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/j7mmcxbzz87.png",
-      "creator_url": "",
+      "creator_url": "https://arethabee.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/762011007963004928/jordan-hair?source=share",
       "name": "Jordan Hair",
-      "creator": "@oakiyo",
+      "creator": "oakiyo",
       "item": [
         "hair"
       ],
@@ -6631,13 +6628,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/pyvdc3mmnry.png",
-      "creator_url": "",
+      "creator_url": "https://oakiyo.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/758983075608870912/heart-bun?source=share",
       "name": "Heart Bun",
-      "creator": "@thatonegreenleaf",
+      "creator": "thatonegreenleaf",
       "item": [
         "hair"
       ],
@@ -6653,13 +6650,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/myd5cn32d84.png",
-      "creator_url": "",
+      "creator_url": "https://thatonegreenleaf.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://www.tumblr.com/sleepyz-sims/757421764756275200/prosthetic-legs",
       "name": "Leg Prosthetics",
-      "creator": "@thatonegreenleaf",
+      "creator": "thatonegreenleaf",
       "item": [
         "clothes"
       ],
@@ -6672,13 +6669,13 @@
         "conversion"
       ],
       "image": "https://imgur.com/jjtTXoO.png",
-      "creator_url": "",
+      "creator_url": "https://thatonegreenleaf.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://sleepyz-sims.tumblr.com/post/755304167382319104/alice-hair",
       "name": "Alice Hair",
-      "creator": "@twisted-cat",
+      "creator": "twisted-cat",
       "item": [
         "hair"
       ],
@@ -6695,13 +6692,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/7ogcbg6jgoy.png",
-      "creator_url": "",
+      "creator_url": "https://twisted-cat.tumblr.com",
       "description": "adult to child/toddler conv."
     },
     {
       "download": "https://sleepyz-sims.tumblr.com/post/754057580297469952/kellyhair",
       "name": "Kelly Hair",
-      "creator": "@oakiyo",
+      "creator": "oakiyo",
       "item": [
         "hair"
       ],
@@ -6715,13 +6712,13 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/7bwckapxgg7.png",
-      "creator_url": "",
+      "creator_url": "https://oakiyo.tumblr.com",
       "description": "adult to child conv."
     },
     {
       "download": "https://sleepyz-sims.tumblr.com/post/751859921441701888/josephine-hair",
       "name": "Josephine Hair",
-      "creator": "@Sunivaa",
+      "creator": "sunivaa",
       "item": [
         "hair"
       ],
@@ -6735,7 +6732,7 @@
         "conversion"
       ],
       "image": "https://cdn.imgchest.com/files/45xcv62dm57.png",
-      "creator_url": "",
+      "creator_url": "https://sunivaa.tumblr.com",
       "description": "adult to child conv."
     }
   ]
