@@ -82,9 +82,8 @@ collections:
 
       - label: Date Added
         name: date_added
-        widget: datetime
+        widget: hidden
         default: "{{now}}"
-        format: "YYYY-MM-DD HH:mm:ss"
         required: false
 
   - name: resources
