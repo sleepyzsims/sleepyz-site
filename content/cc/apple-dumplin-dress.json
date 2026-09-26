@@ -1,10 +1,9 @@
 {
   "date_added": "{{now}}",
-  "image": "https://cdn.imgchest.com/files/93f05be14ca0.png",
-  "name": "Apple Dumplin Dress",
+  "image": "https://cdn.imgchest.com/files/625599428c5f.png",
+  "name": "Rainbow Sherbet Outfit",
   "ages": [
-    "toddler",
-    "infant"
+    "child"
   ],
   "item": [
     "clothes"
