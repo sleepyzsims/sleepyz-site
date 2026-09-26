@@ -1,12 +1,13 @@
 {
   "date_added": "{{now}}",
-  "image": "https://cdn.imgchest.com/files/01f5222a208d.png",
-  "name": "Orange Blossom Outfit",
+  "image": "https://cdn.imgchest.com/files/114adefd18ba.png",
+  "name": "Strawberry Shortcake Outfit",
   "ages": [
     "child"
   ],
   "item": [
-    "clothes"
+    "clothes",
+    "accessory"
   ],
   "types": [
     "new"
