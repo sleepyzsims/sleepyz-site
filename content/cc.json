@@ -27,6 +27,21 @@
       "description": "all items"
     },
     {
+      "name": "Mabel Sweater",
+      "download": "https://www.tumblr.com/sleepyz-sims/828943037313007616/mabel?source=share",
+      "description": "new mesh",
+      "types": [
+        "new"
+      ],
+      "image": "https://cdn.imgchest.com/files/ea443acbb3c4.png",
+      "ages": [
+        "child"
+      ],
+      "item": [
+        "clothes"
+      ]
+    },
+    {
       "download": "https://www.patreon.com/sleepyz/posts/qrsims-hair-170681087",
       "name": "Lapis Lazuli Hair",
       "creator": "qrsims",
