@@ -80,12 +80,6 @@ collections:
 
       - { label: Download Link, name: download, widget: string }
 
-      - label: Date Added
-        name: date_added
-        widget: hidden
-        default: "{{now}}"
-        required: false
-
   - name: resources
     label: Resources / Programs
     files:

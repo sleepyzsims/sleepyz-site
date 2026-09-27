@@ -1,91 +1,58 @@
 const fs = require('fs');
 const path = require('path');
-const { execFileSync } = require('child_process');
 
 const ccDir = path.join(__dirname, '..', '..', 'content', 'cc');
-
-const START_ORDER = 370;
 
 const files = fs
   .readdirSync(ccDir)
   .filter(file => file.toLowerCase().endsWith('.json'));
 
-const entries = files.map(file => {
+let maxOrder = 383;
+
+// Find the highest existing numeric order.
+for (const file of files) {
   const filePath = path.join(ccDir, file);
+
   const data = JSON.parse(
     fs.readFileSync(filePath, 'utf8')
   );
 
-  return {
-    file,
-    filePath,
-    data
-  };
-});
-
-// Find the highest existing _order.
-let highestOrder = START_ORDER - 1;
-
-for (const entry of entries) {
   if (
-    typeof entry.data._order === 'number' &&
-    Number.isFinite(entry.data._order)
+    typeof data._order === 'number' &&
+    data._order > maxOrder
   ) {
-    highestOrder = Math.max(
-      highestOrder,
-      entry.data._order
-    );
+    maxOrder = data._order;
   }
 }
 
-// Find entries that do not have an _order yet.
-const missingOrder = entries.filter(entry =>
-  typeof entry.data._order !== 'number'
+// Find entries that still need an order.
+const unassigned = [];
+
+for (const file of files) {
+  const filePath = path.join(ccDir, file);
+
+  const data = JSON.parse(
+    fs.readFileSync(filePath, 'utf8')
+  );
+
+  if (typeof data._order !== 'number') {
+    unassigned.push({
+      file,
+      filePath,
+      data
+    });
+  }
+}
+
+// Give new entries the next available numbers.
+unassigned.sort((a, b) =>
+  a.file.localeCompare(b.file)
 );
 
-// Determine when each new file was committed.
-// This lets the one-time cleanup preserve the order
-// in which newer CC was added.
-function commitTimestamp(file) {
-  try {
-    const timestamp = execFileSync(
-      'git',
-      [
-        'log',
-        '-1',
-        '--format=%ct',
-        '--',
-        `content/cc/${file}`
-      ],
-      { encoding: 'utf8' }
-    ).trim();
+for (const entry of unassigned) {
+  maxOrder += 1;
 
-    const number = Number(timestamp);
-
-    return Number.isFinite(number)
-      ? number
-      : 0;
-  } catch {
-    return 0;
-  }
-}
-
-missingOrder.sort((a, b) => {
-  const aTime = commitTimestamp(a.file);
-  const bTime = commitTimestamp(b.file);
-
-  if (aTime !== bTime) {
-    return aTime - bTime;
-  }
-
-  return a.file.localeCompare(b.file);
-});
-
-// Assign the next available number to each new entry.
-for (const entry of missingOrder) {
-  highestOrder += 1;
-
-  entry.data._order = highestOrder;
+  entry.data._order = maxOrder;
 
   fs.writeFileSync(
     entry.filePath,
@@ -93,10 +60,14 @@ for (const entry of missingOrder) {
   );
 
   console.log(
-    `Assigned _order ${highestOrder} to ${entry.data.name || entry.file}`
+    `${entry.data.name} -> _order ${maxOrder}`
   );
 }
 
-console.log(
-  `Processed ${missingOrder.length} CC entries without _order.`
-);
+if (unassigned.length === 0) {
+  console.log('No CC entries need an _order.');
+} else {
+  console.log(
+    `Assigned orders through ${maxOrder}.`
+  );
+}

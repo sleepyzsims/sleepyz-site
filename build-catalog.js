@@ -21,24 +21,8 @@ items.sort((a, b) => {
   if (a.name === 'All in One Download') return -1;
   if (b.name === 'All in One Download') return 1;
 
-  const aOrder =
-    typeof a._order === 'number'
-      ? a._order
-      : Number.MAX_SAFE_INTEGER;
-
-  const bOrder =
-    typeof b._order === 'number'
-      ? b._order
-      : Number.MAX_SAFE_INTEGER;
-
-  // Newer/higher order numbers first.
-  if (aOrder !== bOrder) {
-    return bOrder - aOrder;
-  }
-
-  return String(a.name || '').localeCompare(
-    String(b.name || '')
-  );
+  // Higher _order means newer.
+  return b._order - a._order;
 });
 
 // Remove internal fields from the public catalog.

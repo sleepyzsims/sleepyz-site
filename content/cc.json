@@ -27,6 +27,252 @@
       "description": "all items"
     },
     {
+      "download": "https://www.patreon.com/sleepyz/posts/qrsims-hair-170681087",
+      "name": "Lapis Lazuli Hair",
+      "creator": "qrsims",
+      "item": [
+        "hair"
+      ],
+      "ages": [
+        "child",
+        "toddler"
+      ],
+      "hair_type": [
+        "straight"
+      ],
+      "types": [
+        "conversion"
+      ],
+      "image": "https://cdn.imgchest.com/files/3a44a89f67ac.png",
+      "creator_url": "https://qrqr19.tumblr.com/",
+      "description": "adult to child/toddler conv."
+    },
+    {
+      "download": "https://www.patreon.com/sleepyz/posts/qrsims-hair-170681087",
+      "name": "Wolfgang Hair",
+      "creator": "qrsims",
+      "item": [
+        "hair"
+      ],
+      "ages": [
+        "child",
+        "toddler"
+      ],
+      "hair_type": [
+        "straight"
+      ],
+      "types": [
+        "conversion"
+      ],
+      "image": "https://cdn.imgchest.com/files/4a52a395da81.png",
+      "creator_url": "https://qrqr19.tumblr.com/",
+      "description": "adult to child/toddler conv."
+    },
+    {
+      "download": "https://www.patreon.com/sleepyz/posts/qrsims-hair-170681087",
+      "name": "Malcolm Hair",
+      "creator": "qrsims",
+      "item": [
+        "hair"
+      ],
+      "ages": [
+        "child",
+        "toddler"
+      ],
+      "hair_type": [
+        "straight"
+      ],
+      "types": [
+        "conversion"
+      ],
+      "image": "https://cdn.imgchest.com/files/1c9bf226b325.png",
+      "creator_url": "https://qrqr19.tumblr.com/",
+      "description": "adult to child/toddler conv."
+    },
+    {
+      "image": "https://cdn.imgchest.com/files/93f05be14ca0.png",
+      "name": "Apple Dumplin Dress",
+      "ages": [
+        "toddler",
+        "infant"
+      ],
+      "item": [
+        "clothes"
+      ],
+      "types": [
+        "new"
+      ],
+      "description": "new mesh",
+      "download": "https://www.tumblr.com/sleepyz-sims/828611066409992192/strawberry2?source=share"
+    },
+    {
+      "image": "https://cdn.imgchest.com/files/cc61f15f0644.png",
+      "name": "Huckleberry Pie Outfit",
+      "ages": [
+        "child"
+      ],
+      "item": [
+        "clothes"
+      ],
+      "types": [
+        "new"
+      ],
+      "description": "new mesh",
+      "download": "https://www.tumblr.com/sleepyz-sims/828611066409992192/strawberry2?source=share"
+    },
+    {
+      "image": "https://cdn.imgchest.com/files/59b633be61af.png",
+      "name": "Tea Blossom Outfit",
+      "ages": [
+        "child"
+      ],
+      "item": [
+        "clothes"
+      ],
+      "types": [
+        "new"
+      ],
+      "description": "new mesh",
+      "download": "https://www.tumblr.com/sleepyz-sims/828611066409992192/strawberry2?source=share"
+    },
+    {
+      "image": "https://cdn.imgchest.com/files/625599428c5f.png",
+      "name": "Rainbow Sherbet Outfit",
+      "ages": [
+        "child"
+      ],
+      "item": [
+        "clothes"
+      ],
+      "types": [
+        "new"
+      ],
+      "description": "new mesh",
+      "download": "https://www.tumblr.com/sleepyz-sims/828611066409992192/strawberry2?source=share"
+    },
+    {
+      "image": "https://cdn.imgchest.com/files/130a07cac90a.png",
+      "name": "Ginger Snap Outfit",
+      "ages": [
+        "child"
+      ],
+      "item": [
+        "clothes"
+      ],
+      "types": [
+        "new"
+      ],
+      "description": "new mesh",
+      "download": "https://www.tumblr.com/sleepyz-sims/828611066409992192/strawberry2?source=share"
+    },
+    {
+      "download": "https://www.tumblr.com/sleepyz-sims/828110210379988992/aladdin1",
+      "name": "Izac Hair",
+      "creator": "aladdin-the-simmer",
+      "item": [
+        "hair"
+      ],
+      "ages": [
+        "child",
+        "toddler",
+        "infant"
+      ],
+      "hair_type": [
+        "straight"
+      ],
+      "types": [
+        "conversion"
+      ],
+      "image": "https://cdn.imgchest.com/files/7e11627efc50.png",
+      "creator_url": "https://aladdin-the-simmer.tumblr.com/",
+      "description": "adult to all kids conv."
+    },
+    {
+      "download": "https://www.tumblr.com/sleepyz-sims/828110210379988992/aladdin1",
+      "name": "Angel Hair",
+      "creator": "aladdin-the-simmer",
+      "item": [
+        "hair",
+        "accessory"
+      ],
+      "ages": [
+        "child",
+        "toddler"
+      ],
+      "hair_type": [
+        "curly/wavy",
+        "updo"
+      ],
+      "types": [
+        "conversion"
+      ],
+      "image": "https://cdn.imgchest.com/files/94f9b19b8f5d.png",
+      "creator_url": "https://aladdin-the-simmer.tumblr.com/",
+      "description": "adult to child/toddler conv."
+    },
+    {
+      "image": "https://cdn.imgchest.com/files/5ba2f1bd2bfe.png",
+      "name": "Blueberry Muffin Outfit",
+      "ages": [
+        "child"
+      ],
+      "item": [
+        "clothes",
+        "accessory"
+      ],
+      "types": [
+        "new"
+      ],
+      "description": "new mesh",
+      "download": "https://www.tumblr.com/sleepyz-sims/827649608212709376/shortcake?source=share"
+    },
+    {
+      "image": "https://cdn.imgchest.com/files/8f58004ecd30.png",
+      "name": "Angel Cake Outfits",
+      "ages": [
+        "child"
+      ],
+      "item": [
+        "clothes"
+      ],
+      "types": [
+        "new"
+      ],
+      "description": "new mesh",
+      "download": "https://www.tumblr.com/sleepyz-sims/827649608212709376/shortcake?source=share"
+    },
+    {
+      "image": "https://cdn.imgchest.com/files/01f5222a208d.png",
+      "name": "Orange Blossom Outfit",
+      "ages": [
+        "child"
+      ],
+      "item": [
+        "clothes"
+      ],
+      "types": [
+        "new"
+      ],
+      "description": "new mesh",
+      "download": "https://www.tumblr.com/sleepyz-sims/827649608212709376/shortcake?source=share"
+    },
+    {
+      "image": "https://cdn.imgchest.com/files/114adefd18ba.png",
+      "name": "Strawberry Shortcake Outfit",
+      "ages": [
+        "child"
+      ],
+      "item": [
+        "clothes",
+        "accessory"
+      ],
+      "types": [
+        "new"
+      ],
+      "description": "new mesh",
+      "download": "https://www.tumblr.com/sleepyz-sims/827649608212709376/shortcake?source=share"
+    },
+    {
       "download": "https://www.tumblr.com/sleepyz-sims/827567278818263040/miiko1",
       "name": "Mushroom Hat",
       "creator": "miiko",
