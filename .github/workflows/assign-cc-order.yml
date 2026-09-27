@@ -1,0 +1,43 @@
+name: Assign CC Order
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'content/cc/*.json'
+
+permissions:
+  contents: write
+
+jobs:
+  assign-order:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Assign order numbers
+        run: node .github/scripts/assign-cc-order.js
+
+      - name: Commit order changes
+        run: |
+          if git diff --quiet; then
+            echo "No new CC order numbers needed."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add content/cc/*.json
+          git commit -m "Assign order numbers to new CC"
+          git push
