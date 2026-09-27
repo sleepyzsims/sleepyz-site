@@ -10,21 +10,10 @@ const files = fs
 
 const items = files.map(file => {
   const filePath = path.join(ccDir, file);
-  const item = JSON.parse(
+
+  return JSON.parse(
     fs.readFileSync(filePath, 'utf8')
   );
-
-  // Give any new CC entry a date automatically.
-  // Existing entries already have _order and are left unchanged.
-  if (!item.date_added && typeof item._order !== 'number') {
-    item.date_added = new Date().toISOString();
-    fs.writeFileSync(
-      filePath,
-      JSON.stringify(item, null, 2) + '\n'
-    );
-  }
-
-  return item;
 });
 
 items.sort((a, b) => {
@@ -32,21 +21,6 @@ items.sort((a, b) => {
   if (a.name === 'All in One Download') return -1;
   if (b.name === 'All in One Download') return 1;
 
-  const aHasDate = Boolean(a.date_added);
-  const bHasDate = Boolean(b.date_added);
-
-  // New entries with a date go before old entries.
-  if (aHasDate && !bHasDate) return -1;
-  if (!aHasDate && bHasDate) return 1;
-
-  // Both dated entries: newest first.
-  if (aHasDate && bHasDate) {
-    return String(b.date_added).localeCompare(
-      String(a.date_added)
-    );
-  }
-
-  // Old entries: preserve original order.
   const aOrder =
     typeof a._order === 'number'
       ? a._order
@@ -57,8 +31,9 @@ items.sort((a, b) => {
       ? b._order
       : Number.MAX_SAFE_INTEGER;
 
+  // Newer/higher order numbers first.
   if (aOrder !== bOrder) {
-    return aOrder - bOrder;
+    return bOrder - aOrder;
   }
 
   return String(a.name || '').localeCompare(
@@ -81,4 +56,6 @@ fs.writeFileSync(
   JSON.stringify({ items: publicItems }, null, 2) + '\n'
 );
 
-console.log(`Built catalog from ${publicItems.length} CC files.`);
+console.log(
+  `Built catalog from ${publicItems.length} CC files.`
+);
