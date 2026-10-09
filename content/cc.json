@@ -27,6 +27,26 @@
       "description": "all items"
     },
     {
+      "download": "https://sleepyz-sims.tumblr.com/post/829140052722499584/simstrouble4",
+      "name": "Dianne Hair",
+      "creator": "simstrouble",
+      "item": [
+        "hair"
+      ],
+      "ages": [
+        "child",
+        "toddler"
+      ],
+      "hair_type": [
+        "curly/wavy"
+      ],
+      "types": [
+        "conversion"
+      ],
+      "image": "https://cdn.imgchest.com/files/43fa87518d3b.png",
+      "description": "adult to child/toddler conv."
+    },
+    {
       "name": "Mabel Sweater",
       "download": "https://www.tumblr.com/sleepyz-sims/828943037313007616/mabel?source=share",
       "description": "new mesh",
