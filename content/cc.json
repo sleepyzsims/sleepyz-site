@@ -67,6 +67,25 @@
       "description": "adult to child/toddler conv."
     },
     {
+      "download": "https://sleepyz-sims.tumblr.com/post/829140052722499584/simstrouble4",
+      "name": "Shaye Hair",
+      "creator": "simstrouble",
+      "item": [
+        "hair"
+      ],
+      "ages": [
+        "toddler"
+      ],
+      "hair_type": [
+        "curly/wavy"
+      ],
+      "types": [
+        "conversion"
+      ],
+      "image": "https://cdn.imgchest.com/files/6499bf43d40a.png",
+      "description": "adult to toddler conv."
+    },
+    {
       "name": "Mabel Sweater",
       "download": "https://www.tumblr.com/sleepyz-sims/828943037313007616/mabel?source=share",
       "description": "new mesh",
