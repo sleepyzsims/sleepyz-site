@@ -1,0 +1,24 @@
+{
+  "name": "Hallow Hair",
+  "download": "https://sleepyz-sims.tumblr.com/post/830008839295336448/hallow",
+  "image": "https://cdn.imgchest.com/files/4b336505e95c.png",
+  "ages": [
+    "adult",
+    "child",
+    "toddler",
+    "infant"
+  ],
+  "item": [
+    "hair",
+    "accessory"
+  ],
+  "types": [
+    "new"
+  ],
+  "hair_type": [
+    "braids/twists",
+    "updo",
+    "straight"
+  ],
+  "description": "new mesh"
+}
