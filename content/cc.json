@@ -27,6 +27,21 @@
       "description": "all items"
     },
     {
+      "name": "Dipper Top",
+      "image": "https://cdn.imgchest.com/files/4a221a83f723.png",
+      "ages": [
+        "child"
+      ],
+      "item": [
+        "clothes"
+      ],
+      "types": [
+        "new"
+      ],
+      "description": "new mesh",
+      "download": "https://sleepyz-sims.tumblr.com/post/829432424148680704/dipper"
+    },
+    {
       "download": "https://sleepyz-sims.tumblr.com/post/829140052722499584/simstrouble4",
       "name": "Beverly Hair",
       "creator": "simstrouble",
