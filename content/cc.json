@@ -27,6 +27,23 @@
       "description": "all items"
     },
     {
+      "name": "Bandaids",
+      "download": "https://sleepyz-sims.tumblr.com/post/829432424148680704/dipper",
+      "image": "https://cdn.imgchest.com/files/78978b263a22.png",
+      "ages": [
+        "child",
+        "toddler",
+        "infant"
+      ],
+      "item": [
+        "accessory"
+      ],
+      "types": [
+        "new"
+      ],
+      "description": "new mesh"
+    },
+    {
       "name": "Dipper Top",
       "image": "https://cdn.imgchest.com/files/4a221a83f723.png",
       "ages": [
