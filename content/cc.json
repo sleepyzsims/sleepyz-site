@@ -44,6 +44,29 @@
       "description": "new mesh"
     },
     {
+      "download": "https://sleepyz-sims.tumblr.com/post/829686426566328320/accbangs",
+      "name": "Kai Acc Bangs",
+      "creator": "gloomygeek",
+      "item": [
+        "accessory"
+      ],
+      "ages": [
+        "child",
+        "toddler",
+        "infant",
+        "adult"
+      ],
+      "hair_type": [
+        "straight"
+      ],
+      "types": [
+        "conversion"
+      ],
+      "image": "https://cdn.imgchest.com/files/2c83b406d8f7.png",
+      "creator_url": "",
+      "description": "accessory bangs "
+    },
+    {
       "name": "Dipper Top",
       "image": "https://cdn.imgchest.com/files/4a221a83f723.png",
       "ages": [
