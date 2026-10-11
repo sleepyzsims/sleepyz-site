@@ -27,6 +27,22 @@
       "description": "all items"
     },
     {
+      "name": "Bonnie Top",
+      "image": "https://cdn.imgchest.com/files/308fc9afdb17.png",
+      "ages": [
+        "child",
+        "toddler"
+      ],
+      "item": [
+        "clothes"
+      ],
+      "types": [
+        "new"
+      ],
+      "description": "new mesh",
+      "download": "https://www.tumblr.com/sleepyz-sims/830207871739461632/toystory"
+    },
+    {
       "name": "Hallow Hair",
       "download": "https://sleepyz-sims.tumblr.com/post/830008839295336448/hallow",
       "image": "https://cdn.imgchest.com/files/4b336505e95c.png",
