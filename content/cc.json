@@ -27,6 +27,24 @@
       "description": "all items"
     },
     {
+      "name": "Andy's Hat",
+      "image": "https://cdn.imgchest.com/files/6ab2812ace8f.png",
+      "ages": [
+        "toddler",
+        "child",
+        "infant"
+      ],
+      "item": [
+        "clothes",
+        "accessory"
+      ],
+      "types": [
+        "new"
+      ],
+      "description": "new mesh",
+      "download": "https://www.tumblr.com/sleepyz-sims/830207871739461632/toystory"
+    },
+    {
       "name": "Bonnie Outfit",
       "image": "https://cdn.imgchest.com/files/e9c31dfd4f8b.png",
       "ages": [
