@@ -27,6 +27,21 @@
       "description": "all items"
     },
     {
+      "name": "Bonnie Outfit",
+      "image": "https://cdn.imgchest.com/files/e9c31dfd4f8b.png",
+      "ages": [
+        "toddler"
+      ],
+      "item": [
+        "clothes"
+      ],
+      "types": [
+        "new"
+      ],
+      "description": "new mesh",
+      "download": "https://www.tumblr.com/sleepyz-sims/830207871739461632/toystory"
+    },
+    {
       "name": "Bonnie Top",
       "image": "https://cdn.imgchest.com/files/308fc9afdb17.png",
       "ages": [
