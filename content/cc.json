@@ -138,14 +138,9 @@
       "description": "new mesh"
     },
     {
-      "name": "Butter Cropped Suits V1-3",
-      "image": "https://cdn.imgchest.com/files/4cd5beaecd87.png",
       "download": "https://sleepyz-sims.tumblr.com/post/829956098660417536/butter-cropped-suits-conversions",
+      "name": "Butter Cropped Suits V1-3",
       "creator": "nucrests",
-      "description": "adult to child/toddler conv.",
-      "types": [
-        "conversion"
-      ],
       "item": [
         "clothes",
         "accessory"
@@ -153,7 +148,13 @@
       "ages": [
         "child",
         "toddler"
-      ]
+      ],
+      "types": [
+        "conversion"
+      ],
+      "image": "https://cdn.imgchest.com/files/4cd5beaecd87.png",
+      "creator_url": "https://nucrests.tumblr.com/",
+      "description": "adult to child/toddler conv."
     },
     {
       "name": "Bandaids",
