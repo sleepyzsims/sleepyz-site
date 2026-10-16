@@ -457,3 +457,24 @@ document.addEventListener('DOMContentLoaded', () => {
   load();
   loadResources();
 });
+
+// Track clicks on CC download buttons.
+document.addEventListener('click', (event) => {
+  const link = event.target.closest('a.download');
+  if (!link) return;
+
+  const data = JSON.stringify({ event: 'download_click' });
+
+  if (navigator.sendBeacon) {
+    navigator.sendBeacon('/api/track-download', new Blob(
+      [data],
+      { type: 'text/plain' }
+    ));
+  } else {
+    fetch('/api/track-download', {
+      method: 'POST',
+      body: data,
+      keepalive: true
+    }).catch(() => {});
+  }
+});
