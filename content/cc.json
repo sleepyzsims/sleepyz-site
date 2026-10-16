@@ -46,14 +46,9 @@
       "description": "adult to all kids conv."
     },
     {
-      "name": "Stay Gold Suit",
       "download": "https://www.tumblr.com/sleepyz-sims/830386155189157888/nucrests2",
-      "image": "https://cdn.imgchest.com/files/7a8cbdfbc8ef.png",
+      "name": "Stay Gold Suit",
       "creator": "nucrests",
-      "description": "adult to all kids conv.",
-      "types": [
-        "conversion"
-      ],
       "item": [
         "clothes"
       ],
@@ -61,7 +56,13 @@
         "child",
         "toddler",
         "infant"
-      ]
+      ],
+      "types": [
+        "conversion"
+      ],
+      "image": "https://cdn.imgchest.com/files/7a8cbdfbc8ef.png",
+      "creator_url": "https://nucrests.tumblr.com/",
+      "description": "adult to all kids conv."
     },
     {
       "name": "Andy's Hat",
