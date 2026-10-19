@@ -27,6 +27,23 @@
       "description": "all items"
     },
     {
+      "download": "https://www.tumblr.com/sleepyz-sims/830918647243587584/clothes3",
+      "name": "Moon Shirt",
+      "creator": "marsmerizingsims",
+      "item": [
+        "clothes"
+      ],
+      "ages": [
+        "child"
+      ],
+      "types": [
+        "conversion"
+      ],
+      "image": "https://cdn.imgchest.com/files/009bd9727336.png",
+      "creator_url": "https://marsmerizing-sims.tumblr.com/",
+      "description": "adult to child conv."
+    },
+    {
       "download": "https://www.tumblr.com/sleepyz-sims/830872855017357312/dyoreos",
       "name": "Medusa Jeans",
       "creator": "dyoreos",
