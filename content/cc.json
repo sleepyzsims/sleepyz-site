@@ -27,6 +27,26 @@
       "description": "all items"
     },
     {
+      "download": "https://www.tumblr.com/sleepyz-sims/831543280369057792/eden-hair-conversion",
+      "name": "Eden Hair",
+      "creator": "aharris00britney",
+      "item": [
+        "hair"
+      ],
+      "ages": [
+        "toddler"
+      ],
+      "hair_type": [
+        "curly/wavy"
+      ],
+      "types": [
+        "conversion"
+      ],
+      "image": "https://cdn.imgchest.com/files/1070658d84aa.png",
+      "creator_url": "https://aharris00britney.tumblr.com/",
+      "description": "adult to toddler conv."
+    },
+    {
       "download": "https://www.tumblr.com/sleepyz-sims/831340175347073024/lucia",
       "image": "https://cdn.imgchest.com/files/9ba4f1f51fe5.png",
       "name": "Lucia Dress",
