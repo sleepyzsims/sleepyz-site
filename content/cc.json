@@ -27,6 +27,23 @@
       "description": "all items"
     },
     {
+      "download": "https://www.tumblr.com/sleepyz-sims/831636242328354816/clothes4",
+      "name": "Ynnub Costume",
+      "creator": "madlen",
+      "item": [
+        "clothes"
+      ],
+      "ages": [
+        "infant"
+      ],
+      "types": [
+        "conversion"
+      ],
+      "image": "https://cdn.imgchest.com/files/38df017c7baf.png",
+      "creator_url": "https://madlensims.tumblr.com/",
+      "description": "toddler to infant conv."
+    },
+    {
       "download": "https://www.tumblr.com/sleepyz-sims/831543280369057792/eden-hair-conversion",
       "name": "Eden Hair",
       "creator": "aharris00britney",
