@@ -27,6 +27,27 @@
       "description": "all items"
     },
     {
+      "download": "https://www.tumblr.com/sleepyz-sims/831780389837307904/simandy4",
+      "name": "Alex Hair",
+      "creator": "simandy",
+      "item": [
+        "hair"
+      ],
+      "ages": [
+        "child",
+        "toddler"
+      ],
+      "hair_type": [
+        "straight"
+      ],
+      "types": [
+        "conversion"
+      ],
+      "image": "https://cdn.imgchest.com/files/38454461cb4a.png",
+      "creator_url": "https://simandy.tumblr.com/",
+      "description": "adult to child/toddler conv."
+    },
+    {
       "download": "https://www.tumblr.com/sleepyz-sims/831636242328354816/clothes4",
       "name": "Clover's Cozy Coat",
       "creator": "nolan-sims",
