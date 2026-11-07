@@ -38,7 +38,9 @@
         "toddler"
       ],
       "hair_type": [
-        "straight"
+        "braids/twists",
+        "curly/wavy",
+        "updo"
       ],
       "types": [
         "conversion"
